@@ -7,12 +7,12 @@ portal-redirection: true
 knock-back-dist: 3.0
 timer-delay-ticks: 5
 remount-delay-ticks: 0
-dynmap-border-enabled: true
+dynmap-border-enabled: false
 dynmap-border-message: The border of the world.
 dynmap-border-hideByDefault: false
 dynmap-border-priority: 0
 player-killed-bad-spawn: false
-deny-enderpearl: true
+deny-enderpearl: false
 fill-autosave-frequency: 30
 bypass-list-uuids: []
 fill-memory-tolerance: 500
