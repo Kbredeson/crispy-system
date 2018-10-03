@@ -1,0 +1,81 @@
+error:
+  addtool:
+    already: '&cYou have already added this as required tool!'
+    other: '&cSomething went wrong trying to add the required tool: {VAR}'
+  custom:
+    lists: '&cSomething is wrong with your custom lists. Please fix them! They need
+      have to same item count!'
+    exists: '&cThis custom block group definition already exists!'
+    explanation: '&cYou need to have three items in you first hotbar slots. &e1) SAPLING
+      - 2) LOG - 3) LEAVES'
+  data_yml: '&cYou have a messed up data.yml - fix or remove it!'
+  emptyhand: '&cYou don''t have an item in your hand'
+  findforest: '&cForest not found in 500 block radius: &r{VAR}'
+  invalid_argumentcount: '&cInvalid number of arguments&r ({VAR} instead of {VAR2})!'
+  invalid_argumentlist: '&cInvalid arguments! Valid:&r {VAR}'
+  nottool: '&cYou don''t have the required tool to do that!'
+  outofrange: 'c&The max range for this command is: {VAR}'
+  permission:
+    addcustom: '&cYou don''t have ''treeassist.addcustom'''
+    addtool: '&cYou don''t have ''treeassist.addtool'''
+    debug: '&cYou don''t have ''treeassist.debug'''
+    findforest: '&cYou don''t have ''treeassist.findforest'''
+    forcebreak: '&cYou don''t have ''treeassist.forcebreak'''
+    forcegrow: '&cYou don''t have ''treeassist.forcegrow'''
+    noreplace: '&cYou don''t have ''treeassist.noreplace'''
+    purge: '&cYou don''t have ''treeassist.purge'''
+    reload: '&cYou don''t have ''treeassist.reload'''
+    removecustom: '&cYou don''t have ''treeassist.removecustom'''
+    removetool: '&cYou don''t have ''treeassist.removetool'''
+    toggle: '&cYou don''t have ''treeassist.toggle'''
+    toggle_other: '&cYou don''t have ''treeassist.toggle.other'''
+    toggle_global: '&cYou don''t have ''treeassist.toggle.global'''
+    toggle_tool: '&cYou don''t have ''treeassist.tool'''
+  removetool:
+    not_done: '&cTool is no required tool!'
+  notfound:
+    world: '&cWorld not found: {VAR}'''
+  only:
+    players: Only for players!
+    treeassist_blocklist: '&cThis command only is available for the TreeAssist BlockList!'
+info:
+  prefix: '&8[&aTreeAssist&8]'
+  cooldown_done: '&aTreeAssist cooled down!'
+  cooldown_still: '&aTreeAssist is still cooling down!'
+  cooldown_value: '&a{VAR} seconds remaining!'
+  cooldown_wait: '&aWait {num} seconds for TreeAssist cooldown!'
+  custom:
+    added: '&aCustom block group definition added!'
+    removed: '&aCustom block group definition removed!'
+  never_break_saplings: '&aYou cannot break saplings on this server!'
+  sapling_protected: '&aThis sapling is protected!'
+warning:
+  sapling_protected: '&6You can only use one enchantment. Using: {VAR}'
+successful:
+  addtool: '&aRequired tool added: {VAR}'
+  debug_all: debugging EVERYTHING
+  debug: debugging {VAR}
+  findforest: '&aForest found at &r{VAR}'
+  noreplace: '&aYou now stop replanting trees for {VAR} seconds.'
+  protect_off: '&aSapling is no longer protected!'
+  protect_on: '&aSapling now is protected!'
+  purge:
+    days: '&a{VAR} entries have been purged for the last {VAR2} days!'
+    global: '&a{VAR} global entries have been purged!'
+    world: '&a{VAR} entries have been purged for the world {VAR2}!'
+  reload: '&aTreeAssist has been reloaded.'
+  removetool: '&aRequired tool removed: {VAR}'
+  toggle:
+    global_off: '&aTreeAssist functions are turned off globally!'
+    global_on: '&aTreeAssist functions are now turned on globally!'
+    other_global_off: '&aTreeAssist functions are turned off for {VAR}!'
+    other_global_on: '&aTreeAssist functions are now turned on for {VAR}!'
+    other_world_off: '&aTreeAssist functions are turned off for {VAR} in world {VAR2}!'
+    other_world_on: '&aTreeAssist functions are now turned on for {VAR1} in world
+      {VAR2}!'
+    you_global_off: '&aTreeAssist functions are turned off for you!'
+    you_global_on: '&aTreeAssist functions are now turned on for you!'
+    you_world_off: '&aTreeAssist functions are turned off for you in world {VAR}!'
+    you_world_on: '&aTreeAssist functions are now turned on for you in world {VAR}!'
+  tool_off: '&aProtection Tool removed!'
+  tool_on: '&aYou have been given the Protection Tool!'

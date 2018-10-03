@@ -1,0 +1,30 @@
+lastAccountName: canucka
+timestamps:
+  login: 1538546113414
+  lastteleport: 1538545298149
+  logout: 1538546069071
+ipAddress: 142.244.5.153
+homes:
+  home:
+    world: world
+    x: -105.30000001192094
+    y: 67.0
+    z: -68.69999998807907
+    yaw: -59.80864
+    pitch: 36.149754
+lastlocation:
+  world: world
+  x: 1138.8599710254998
+  y: 72.0
+  z: -518.4446487478514
+  yaw: -83.49083
+  pitch: 9.150094
+afk: false
+money: '125583.0'
+logoutlocation:
+  world: world
+  x: 1602.6074415297035
+  y: 66.0
+  z: -771.341534528503
+  yaw: -0.6862793
+  pitch: 4.7993994

@@ -1,0 +1,27 @@
+cfg-version: 11
+message: '&cYou reached the edge of the world, and wrapped around to the other side!'
+round-border: false
+debug-mode: false
+whoosh-effect: true
+portal-redirection: true
+knock-back-dist: 3.0
+timer-delay-ticks: 5
+remount-delay-ticks: 0
+dynmap-border-enabled: true
+dynmap-border-message: The border of the world.
+dynmap-border-hideByDefault: false
+dynmap-border-priority: 0
+player-killed-bad-spawn: false
+deny-enderpearl: true
+fill-autosave-frequency: 30
+bypass-list-uuids: []
+fill-memory-tolerance: 500
+prevent-block-place: false
+prevent-mob-spawn: false
+worlds:
+  world:
+    x: 1631.0
+    z: -792.0
+    radiusX: 512
+    radiusZ: 512
+    wrapping: true

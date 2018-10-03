@@ -1,0 +1,108 @@
+Main:
+  Apply Full Tool Damage: true
+  Auto Add To Inventory: false
+  Play Sound On Chop: true
+  Auto Plant Dropped Saplings: false
+  Automatic Tree Destruction: true
+  Destroy Only Blocks Above: false
+  Force Break Default Radius: 10
+  Force Grow Default Radius: 10
+  Force Break Max Radius: 30
+  Force Grow Max Radius: 30
+  Ignore User Placed Blocks: false
+  Initial Delay: false
+  Language: en
+  Sapling Replant: true
+  Toggle Default: true
+  Use mcMMO if Available: true
+  Use JobsReborn if Available: true
+  Use Permissions: false
+Automatic Tree Destruction:
+  Required Lore: ''
+  Animated: true
+  When Sneaking: true
+  When Not Sneaking: true
+  Forced Removal: false
+  Remove Leaves: true
+  Initial Delay (seconds): 10
+  Delay (ticks): 0
+  Tree Types:
+    Birch: true
+    Jungle: true
+    Oak: true
+    Spruce: true
+    Brown Shroom: true
+    Red Shroom: true
+    Acacia: true
+    Dark Oak: true
+  Cooldown (seconds): 0
+Auto Plant Dropped Saplings:
+  Chance (percent): 10
+  Delay (seconds): 5
+Leaf Decay:
+  Fast Leaf Decay: true
+Sapling Replant:
+  Command Time Delay (Seconds): 30
+  Bottom Block has to be Broken First: true
+  Time to Protect Sapling (Seconds): 0
+  Time to Block Sapling Growth (Seconds): 0
+  Replant When Tree Burns Down: true
+  Block all breaking of Saplings: false
+  Delay until Sapling is replanted (seconds) (minimum 1 second): 1
+  Enforce: false
+  Tree Types to Replant:
+    Birch: true
+    Jungle: true
+    Oak: true
+    Spruce: true
+    Brown Shroom: true
+    Red Shroom: true
+    Acacia: true
+    Dark Oak: true
+Tools:
+  Sapling Replant Require Tools: true
+  Tree Destruction Require Tools: true
+  Tools List:
+  - DIAMOND_AXE
+  - WOODEN_AXE
+  - GOLDEN_AXE
+  - IRON_AXE
+  - STONE_AXE
+  Drop Chance:
+    DIAMOND_AXE: 100
+    WOODEN_AXE: 100
+    GOLDEN_AXE: 100
+    IRON_AXE: 100
+    STONE_AXE: 100
+Worlds:
+  Enable Per World: false
+  Enabled Worlds:
+  - world
+  - world2
+Custom Drops:
+  APPLE: 0.01
+  GOLDEN_APPLE: 0.0
+Placed Blocks:
+  Handler Plugin Name: TreeAssist
+  Use FlatFile If TreeAssist: false
+Modding:
+  Disable Durability Fix: false
+  Custom Logs:
+  - -1
+  Custom Tree Blocks:
+  - -1
+  Custom Saplings:
+  - -1
+  Debug: none
+Hooks:
+  JobsReborn:
+    JobName: Woodcutter
+    Experience:
+      Birch: 2.5
+      Jungle: 2.5
+      Oak: 2.5
+      Spruce: 2.0
+      Brown Shroom: 3.0
+      Red Shroom: 3.0
+      Acacia: 2.5
+      Dark Oak: 2.5

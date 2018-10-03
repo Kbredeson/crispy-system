@@ -1,0 +1,511 @@
+[05:30:16] [main/INFO]: Loaded 0 recipes
+[05:30:16] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[05:30:16] [Server thread/INFO]: Loading properties
+[05:30:16] [Server thread/INFO]: Default game type: SURVIVAL
+[05:30:17] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-f6a273b-68588da (MC: 1.13.1) (Implementing API version 1.13.1-R0.1-SNAPSHOT)
+[05:30:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:30:17] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:30:17] [Server thread/INFO]: Debug logging is disabled
+[05:30:17] [Server thread/INFO]: Generating keypair
+[05:30:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:30:18] [Server thread/INFO]: Using epoll channel type
+[05:30:26] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[05:30:27] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v4.3.7
+[05:30:27] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0-beta-01;8975469
+[05:30:27] [Server thread/INFO]: [Arconix] Loading Arconix v2.0.0
+[05:30:27] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.9.0
+[05:30:27] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[05:30:27] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[05:30:27] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[05:30:27] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.0-beta01;01dfebe
+[05:30:27] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vTeamCity
+[05:30:27] [Server thread/INFO]: [TreeAssist] Loading TreeAssist v5.13.1
+[05:30:27] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v4.3.7
+[05:30:27] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[05:30:27] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms [0;36;1mv4.3.7[m
+[05:30:27] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[05:30:27] [Server thread/INFO]: [m
+[05:30:27] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[05:30:27] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[05:30:29] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[05:30:29] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[05:30:29] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2340ms)
+[05:30:29] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[05:30:29] [Server thread/INFO]: Preparing level "world"
+[05:30:29] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[05:30:31] [Server thread/INFO]: Loaded 524 recipes
+[05:30:33] [Server thread/INFO]: -------- World Settings For [world] --------
+[05:30:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Mi 2 / Tiv true
+[05:30:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:30:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[05:30:33] [Server thread/INFO]: Random Lighting Updates: false
+[05:30:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[05:30:33] [Server thread/INFO]: Mob Spawn Range: 3
+[05:30:33] [Server thread/INFO]: Max TNT Explosions: 100
+[05:30:33] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[05:30:33] [Server thread/INFO]: Experience Merge Radius: 6.0
+[05:30:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:30:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:30:33] [Server thread/INFO]: Item Merge Radius: 4.0
+[05:30:33] [Server thread/INFO]: Arrow Despawn Rate: 100
+[05:30:33] [Server thread/INFO]: View Distance: 4
+[05:30:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:30:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:30:33] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[05:30:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Mi 2 / Tiv true
+[05:30:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:30:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[05:30:33] [Server thread/INFO]: Random Lighting Updates: false
+[05:30:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[05:30:33] [Server thread/INFO]: Mob Spawn Range: 3
+[05:30:33] [Server thread/INFO]: Max TNT Explosions: 100
+[05:30:33] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[05:30:33] [Server thread/INFO]: Experience Merge Radius: 6.0
+[05:30:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:30:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:30:33] [Server thread/INFO]: Item Merge Radius: 4.0
+[05:30:33] [Server thread/INFO]: Arrow Despawn Rate: 100
+[05:30:33] [Server thread/INFO]: View Distance: 4
+[05:30:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:30:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:30:33] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[05:30:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:30:33] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Mi 2 / Tiv true
+[05:30:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:30:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[05:30:33] [Server thread/INFO]: Random Lighting Updates: false
+[05:30:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[05:30:33] [Server thread/INFO]: Mob Spawn Range: 3
+[05:30:33] [Server thread/INFO]: Max TNT Explosions: 100
+[05:30:33] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[05:30:33] [Server thread/INFO]: Experience Merge Radius: 6.0
+[05:30:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:30:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:30:33] [Server thread/INFO]: Item Merge Radius: 4.0
+[05:30:33] [Server thread/INFO]: Arrow Despawn Rate: 100
+[05:30:33] [Server thread/INFO]: View Distance: 4
+[05:30:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:30:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:30:33] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -3969618050312224901)
+[05:30:33] [Server thread/INFO]: Preparing spawn area: 4%
+[05:30:33] [Server thread/INFO]: Preparing spawn area: 8%
+[05:30:33] [Server thread/INFO]: Preparing spawn area: 12%
+[05:30:33] [Server thread/INFO]: Preparing spawn area: 16%
+[05:30:33] [Server thread/INFO]: Preparing spawn area: 20%
+[05:30:33] [Server thread/INFO]: Preparing spawn area: 24%
+[05:30:33] [Server thread/INFO]: Preparing spawn area: 28%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 32%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 36%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 40%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 44%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 48%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 52%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 56%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 60%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 64%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 68%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 72%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 76%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 80%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 84%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 88%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 92%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 96%
+[05:30:34] [Server thread/INFO]: Preparing spawn area: 100%
+[05:30:34] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -3969618050312224901)
+[05:30:35] [Server thread/INFO]: Preparing spawn area: 4%
+[05:30:35] [Server thread/INFO]: Preparing spawn area: 8%
+[05:30:35] [Server thread/INFO]: Preparing spawn area: 12%
+[05:30:36] [Server thread/INFO]: Preparing spawn area: 16%
+[05:30:36] [Server thread/INFO]: Preparing spawn area: 20%
+[05:30:36] [Server thread/INFO]: Preparing spawn area: 24%
+[05:30:36] [Server thread/INFO]: Preparing spawn area: 28%
+[05:30:36] [Server thread/INFO]: Preparing spawn area: 32%
+[05:30:36] [Server thread/INFO]: Preparing spawn area: 36%
+[05:30:37] [Server thread/INFO]: Preparing spawn area: 40%
+[05:30:37] [Server thread/INFO]: Preparing spawn area: 44%
+[05:30:37] [Server thread/INFO]: Preparing spawn area: 48%
+[05:30:37] [Server thread/INFO]: Preparing spawn area: 52%
+[05:30:37] [Server thread/INFO]: Preparing spawn area: 56%
+[05:30:37] [Server thread/INFO]: Preparing spawn area: 60%
+[05:30:37] [Server thread/INFO]: Preparing spawn area: 64%
+[05:30:38] [Server thread/INFO]: Preparing spawn area: 68%
+[05:30:38] [Server thread/INFO]: Preparing spawn area: 72%
+[05:30:38] [Server thread/INFO]: Preparing spawn area: 76%
+[05:30:38] [Server thread/INFO]: Preparing spawn area: 80%
+[05:30:38] [Server thread/INFO]: Preparing spawn area: 84%
+[05:30:38] [Server thread/INFO]: Preparing spawn area: 88%
+[05:30:38] [Server thread/INFO]: Preparing spawn area: 92%
+[05:30:39] [Server thread/INFO]: Preparing spawn area: 96%
+[05:30:39] [Server thread/INFO]: Preparing spawn area: 100%
+[05:30:39] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -3969618050312224901)
+[05:30:39] [Server thread/INFO]: Preparing spawn area: 4%
+[05:30:39] [Server thread/INFO]: Preparing spawn area: 8%
+[05:30:39] [Server thread/INFO]: Preparing spawn area: 12%
+[05:30:40] [Server thread/INFO]: Preparing spawn area: 16%
+[05:30:40] [Server thread/INFO]: Preparing spawn area: 20%
+[05:30:40] [Server thread/INFO]: Preparing spawn area: 24%
+[05:30:40] [Server thread/INFO]: Preparing spawn area: 28%
+[05:30:40] [Server thread/INFO]: Preparing spawn area: 32%
+[05:30:40] [Server thread/INFO]: Preparing spawn area: 36%
+[05:30:40] [Server thread/INFO]: Preparing spawn area: 40%
+[05:30:40] [Server thread/INFO]: Preparing spawn area: 44%
+[05:30:40] [Server thread/INFO]: Preparing spawn area: 48%
+[05:30:41] [Server thread/INFO]: Preparing spawn area: 52%
+[05:30:41] [Server thread/INFO]: Preparing spawn area: 56%
+[05:30:41] [Server thread/INFO]: Preparing spawn area: 60%
+[05:30:41] [Server thread/INFO]: Preparing spawn area: 64%
+[05:30:41] [Server thread/INFO]: Preparing spawn area: 68%
+[05:30:41] [Server thread/INFO]: Preparing spawn area: 72%
+[05:30:41] [Server thread/INFO]: Preparing spawn area: 76%
+[05:30:41] [Server thread/INFO]: Preparing spawn area: 80%
+[05:30:41] [Server thread/INFO]: Preparing spawn area: 84%
+[05:30:41] [Server thread/INFO]: Preparing spawn area: 88%
+[05:30:42] [Server thread/INFO]: Preparing spawn area: 92%
+[05:30:42] [Server thread/INFO]: Preparing spawn area: 96%
+[05:30:42] [Server thread/INFO]: Preparing spawn area: 100%
+[05:30:42] [Server thread/INFO]: Time elapsed: 8815 ms
+[05:30:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0-beta-01;8975469
+[05:30:42] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_13_R2 as the Bukkit adapter
+[05:30:44] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[05:30:44] [Server thread/INFO]: [Arconix] Enabling Arconix v2.0.0
+[05:30:44] [Server thread/INFO]: Setting up packets for v1_13_R2
+[05:30:44] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.9.0
+[05:30:44] [Server thread/INFO]: [WorldBorder] [CONFIG] Using rectangular/square border, knockback of 3.0 blocks, and timer delay of 5.
+[05:30:44] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[05:30:44] [Server thread/INFO]: [WorldBorder] [CONFIG] World "world" has border radius 512 at X: 1631.0 Z: -792.0 (wrapping)
+[05:30:44] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: 1631.0 Y: 68.0 Z: -792.0
+[05:30:44] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[05:30:44] [Server thread/INFO]: Using locale en_US
+[05:30:45] [Server thread/INFO]: Using locale en_US
+[05:30:45] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[05:30:45] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[05:30:45] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[05:30:45] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[05:30:45] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.0-beta01;01dfebe
+[05:30:45] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[05:30:45] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[05:30:45] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[05:30:45] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[05:30:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[05:30:45] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[05:30:45] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[05:30:45] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[05:30:45] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[05:30:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[05:30:45] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[05:30:45] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[05:30:45] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[05:30:45] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[05:30:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[05:30:46] [Server thread/INFO]: [WorldGuard] Loading region data...
+[05:30:46] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vTeamCity
+[05:30:46] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v5.13.1
+[05:30:46] [Server thread/INFO]: [Arconix] Plugin hooked: TreeAssist
+[05:30:46] [Server thread/INFO]: [0;32;1m=============================[m
+[05:30:46] [Server thread/INFO]: [0;37;22mTreeAssist 5.13.1 by [0;35;22mSongoda <3[0;37;22m![m
+[05:30:46] [Server thread/INFO]: [0;37;22mAction: [0;32;1mEnabling[0;37;22m...[m
+[05:30:46] [Server thread/INFO]: [TreeAssist] Loading data file
+[05:30:46] [Server thread/INFO]: [0;32;1m=============================[m
+[05:30:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:30:47] [Server thread/INFO]: Done (18.110s)! For help, type "help"
+[05:31:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@74f43fc0[id=<null>,name=canucka,properties={},legacy=false] (/142.244.5.153:49975) lost connection: Disconnected
+[05:31:37] [Server thread/INFO]: CONSOLE issued server command: /help 
+[05:31:37] [Server thread/INFO]: To view help from the console, type ?.[m
+[05:31:47] [User Authenticator #1/INFO]: UUID of player canucka is 17a5625b-04c0-4c16-ad28-9335e067e462
+[05:31:51] [Server thread/INFO]: canucka[/142.244.5.153:49977] logged in with entity id 291 at ([world]1284.9802032158866, 64.0, -1158.3550146587872)
+[05:32:08] [Server thread/INFO]: canucka issued server command: /spawn
+[05:32:24] [Server thread/INFO]: canucka issued server command: /wb
+[05:32:34] [Server thread/INFO]: canucka issued server command: /wb 2
+[05:32:36] [Server thread/INFO]: canucka issued server command: /wb 3
+[05:32:37] [Server thread/INFO]: canucka issued server command: /wb start
+[05:32:41] [Server thread/INFO]: canucka issued server command: /wb 4
+[05:32:42] [Server thread/INFO]: canucka issued server command: /wb 5
+[05:32:51] [Server thread/INFO]: canucka issued server command: /wb help
+[05:33:03] [Server thread/INFO]: canucka issued server command: /worldborder
+[05:33:06] [Server thread/INFO]: canucka issued server command: /wb help
+[05:33:20] [Server thread/INFO]: canucka issued server command: /wb fill
+[05:33:22] [Server thread/INFO]: canucka issued server command: /wb fill confirm
+[05:33:22] [Server thread/INFO]: [WorldBorder] Filling out world to border at the command of player "canucka".
+[05:33:22] [Server thread/INFO]: [WorldBorder] world: world  padding: 208  repeats: 1  ticks: 1
+[05:33:27] [Server thread/INFO]: [WorldBorder] [Fill] 5710 more chunks processed (5710 total, ~66.7%) (free mem: 2787 MB)
+[05:33:32] [Server thread/INFO]: [WorldBorder] [Fill] 243 more chunks processed (5953 total, ~69.6%) (free mem: 2813 MB)
+[05:33:37] [Server thread/INFO]: [WorldBorder] [Fill] 188 more chunks processed (6141 total, ~71.8%) (free mem: 2731 MB)
+[05:33:42] [Server thread/INFO]: [WorldBorder] [Fill] 153 more chunks processed (6294 total, ~73.6%) (free mem: 2752 MB)
+[05:33:47] [Server thread/INFO]: [WorldBorder] [Fill] 17 more chunks processed (6311 total, ~73.8%) (free mem: 2765 MB)
+[05:33:52] [Server thread/INFO]: [WorldBorder] [Fill] 71 more chunks processed (6382 total, ~74.6%) (free mem: 2699 MB)
+[05:33:52] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2699 MB)
+[05:33:52] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[05:33:56] [Server thread/INFO]: canucka issued server command: /wb fill pause
+[05:33:56] [Server thread/INFO]: [WorldBorder] [Fill] 21 more chunks processed (6403 total, ~74.8%) (free mem: 2695 MB)
+[05:34:28] [Server thread/INFO]: canucka issued server command: /wb fill pause
+[05:34:28] [Server thread/INFO]: [WorldBorder] [Fill] 0 more chunks processed (6403 total, ~74.8%) (free mem: 2709 MB)
+[05:34:28] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2709 MB)
+[05:34:33] [Server thread/INFO]: [WorldBorder] [Fill] 81 more chunks processed (6484 total, ~75.8%) (free mem: 2630 MB)
+[05:34:36] [Server thread/INFO]: canucka issued server command: /wb fill pause
+[05:34:36] [Server thread/INFO]: [WorldBorder] [Fill] 68 more chunks processed (6552 total, ~76.6%) (free mem: 2605 MB)
+[05:35:00] [Server thread/INFO]: canucka issued server command: /wb fill pause
+[05:35:00] [Server thread/INFO]: [WorldBorder] [Fill] 0 more chunks processed (6552 total, ~76.6%) (free mem: 2647 MB)
+[05:35:00] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2647 MB)
+[05:35:05] [Server thread/INFO]: [WorldBorder] [Fill] 69 more chunks processed (6621 total, ~77.4%) (free mem: 2632 MB)
+[05:35:10] [Server thread/INFO]: [WorldBorder] [Fill] 103 more chunks processed (6724 total, ~78.6%) (free mem: 2571 MB)
+[05:35:15] [Server thread/INFO]: [WorldBorder] [Fill] 104 more chunks processed (6828 total, ~79.8%) (free mem: 2653 MB)
+[05:35:20] [Server thread/INFO]: [WorldBorder] [Fill] 163 more chunks processed (6991 total, ~81.7%) (free mem: 2602 MB)
+[05:35:25] [Server thread/INFO]: [WorldBorder] [Fill] 139 more chunks processed (7130 total, ~83.3%) (free mem: 2470 MB)
+[05:35:30] [Server thread/INFO]: [WorldBorder] [Fill] 157 more chunks processed (7287 total, ~85.2%) (free mem: 2538 MB)
+[05:35:30] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2538 MB)
+[05:35:36] [Server thread/INFO]: [WorldBorder] [Fill] 55 more chunks processed (7342 total, ~85.8%) (free mem: 2554 MB)
+[05:35:40] [Server thread/INFO]: canucka issued server command: /wb fill pause
+[05:35:40] [Server thread/INFO]: [WorldBorder] [Fill] 161 more chunks processed (7503 total, ~87.7%) (free mem: 2463 MB)
+[05:35:53] [Server thread/INFO]: canucka issued server command: /wb fill pause
+[05:35:53] [Server thread/INFO]: [WorldBorder] [Fill] 0 more chunks processed (7503 total, ~87.7%) (free mem: 2404 MB)
+[05:35:58] [Server thread/INFO]: [WorldBorder] [Fill] 146 more chunks processed (7649 total, ~89.4%) (free mem: 2464 MB)
+[05:36:03] [Server thread/INFO]: [WorldBorder] [Fill] 114 more chunks processed (7763 total, ~90.7%) (free mem: 2427 MB)
+[05:36:03] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2427 MB)
+[05:36:17] [Server thread/WARN]: canucka moved too quickly! 29.212896839007726,1.5760776394184148,-0.2415521667461462
+[05:36:17] [Server thread/INFO]: canucka issued server command: /wb fill pause
+[05:36:17] [Server thread/INFO]: [WorldBorder] [Fill] 99 more chunks processed (7862 total, ~91.9%) (free mem: 2524 MB)
+[05:36:43] [Server thread/INFO]: canucka issued server command: /wb fill pause
+[05:36:43] [Server thread/INFO]: [WorldBorder] [Fill] 0 more chunks processed (7862 total, ~91.9%) (free mem: 2437 MB)
+[05:36:43] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2437 MB)
+[05:36:48] [Server thread/INFO]: [WorldBorder] [Fill] 80 more chunks processed (7942 total, ~92.8%) (free mem: 2448 MB)
+[05:36:53] [Server thread/INFO]: [WorldBorder] [Fill] 200 more chunks processed (8142 total, ~95.2%) (free mem: 2358 MB)
+[05:36:58] [Server thread/INFO]: [WorldBorder] [Fill] 108 more chunks processed (8250 total, ~96.4%) (free mem: 2491 MB)
+[05:37:00] [Server thread/INFO]: [WorldBorder] [Fill] 681 more chunks processed (8931 total, ~100.0%) (free mem: 2439 MB)
+[05:37:01] [Server thread/INFO]: [WorldBorder] [Fill] task successfully completed for world "world"! (free mem: 2261 MB)
+[05:37:12] [Server thread/INFO]: canucka issued server command: /wb
+[05:37:18] [Server thread/INFO]: canucka issued server command: /wb help
+[05:37:27] [Server thread/INFO]: canucka issued server command: /wb list
+[05:39:04] [Server thread/INFO]: canucka issued server command: /spawn
+[05:39:08] [Server thread/INFO]: canucka issued server command: /worldborder center ~0 ~0
+[05:39:08] [Server thread/INFO]: [canucka: Set the center of the world border to 1631.50, -791.50]
+[05:39:14] [Server thread/INFO]: canucka issued server command: /worldborder center ~0 ~0
+[05:39:14] [Server thread/INFO]: [canucka: Set the center of the world border to 1631.55, -791.57]
+[05:39:16] [Server thread/INFO]: canucka issued server command: /worldborder center ~0 ~0
+[05:39:16] [Server thread/INFO]: [canucka: Set the center of the world border to 1631.37, -791.46]
+[05:39:17] [Server thread/INFO]: canucka issued server command: /worldborder center ~0 ~0
+[05:39:17] [Server thread/INFO]: [canucka: Set the center of the world border to 1631.41, -791.45]
+[05:39:29] [Server thread/INFO]: canucka issued server command: /worldborder set 512
+[05:39:29] [Server thread/INFO]: [canucka: Set the world border to 512.0 blocks wide]
+[05:40:02] [Server thread/INFO]: canucka issued server command: /worldborder set 1024
+[05:40:02] [Server thread/INFO]: [canucka: Set the world border to 1024.0 blocks wide]
+[05:40:28] [Server thread/INFO]: canucka issued server command: /worldborder set 1025
+[05:40:28] [Server thread/INFO]: [canucka: Set the world border to 1025.0 blocks wide]
+[05:41:00] [Server thread/INFO]: canucka issued server command: /wb trim
+[05:41:02] [Server thread/INFO]: canucka issued server command: /wb trim confirm
+[05:41:02] [Server thread/INFO]: [WorldBorder] Trimming world beyond border at the command of player "canucka".
+[05:41:05] [Server thread/INFO]: [WorldBorder] [Trim] 8 entire region(s) and 931 individual chunk(s) trimmed so far (100.0% done)
+[05:41:05] [Server thread/INFO]: [WorldBorder] [Trim] task successfully completed!
+[05:41:28] [Server thread/INFO]: canucka issued server command: /worldborder set 1028
+[05:41:28] [Server thread/INFO]: [canucka: Set the world border to 1028.0 blocks wide]
+[05:41:38] [Server thread/INFO]: canucka issued server command: /spawn
+[05:43:20] [Server thread/INFO]: canucka issued server command: /sell
+[05:43:22] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:43:22] [Server thread/INFO]: §acanucka §asold bookshelf for §a$140 §a(1 items at $140 each).
+[05:44:21] [Server thread/INFO]: canucka issued server command: /bal
+[05:45:15] [Server thread/INFO]: canucka issued server command: /sell
+[05:45:18] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:45:18] [Server thread/INFO]: §acanucka §asold ink_sack for §a$10 §a(1 items at $10 each).
+[05:46:20] [Server thread/INFO]: canucka issued server command: /pay canucka 200
+[05:46:22] [Server thread/INFO]: canucka issued server command: /bal
+[05:46:29] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:46:29] [Server thread/INFO]: §acanucka §asold diamond_block for §a$128000 §a(64 items at $2000 each).
+[05:47:46] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:47:46] [Server thread/INFO]: §acanucka §asold ink_sack for §a$640 §a(64 items at $10 each).
+[05:47:52] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:47:52] [Server thread/INFO]: §acanucka §asold ink_sack for §a$160 §a(16 items at $10 each).
+[05:48:03] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:48:03] [Server thread/INFO]: §acanucka §asold bookshelf for §a$140 §a(1 items at $140 each).
+[05:48:42] [Server thread/INFO]: canucka has made the advancement [Into Fire]
+[05:48:44] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:48:46] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:48:52] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:48:58] [Server thread/INFO]: canucka has made the advancement [Diamonds!]
+[05:49:03] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:49:03] [Server thread/INFO]: §acanucka §asold obsidian for §a$130 §a(1 items at $130 each).
+[05:49:06] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:49:06] [Server thread/INFO]: §acanucka §asold diamond for §a$200 §a(1 items at $200 each).
+[05:49:33] [Server thread/INFO]: canucka issued server command: /price
+[05:49:40] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:49:40] [Server thread/INFO]: §acanucka §asold diamond for §a$200 §a(1 items at $200 each).
+[05:49:51] [Server thread/INFO]: canucka issued server command: /give canucka Blaze 1
+[05:49:53] [Server thread/INFO]: canucka issued server command: /give canucka Blazerod 1
+[05:50:19] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:51:09] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:51:09] [Server thread/INFO]: §acanucka §asold cobblestone for §a$1 §a(1 items at $1 each).
+[05:51:58] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:51:58] [Server thread/INFO]: §acanucka §asold stone for §a$192 §a(64 items at $3 each).
+[05:52:41] [Server thread/INFO]: canucka issued server command: /sell
+[05:52:45] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:52:45] [Server thread/INFO]: §acanucka §asold brick for §a$21 §a(1 items at $21 each).
+[05:53:22] [Server thread/INFO]: canucka issued server command: /edit
+[05:54:24] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:54:24] [Server thread/INFO]: §acanucka §asold clay_brick for §a$80 §a(16 items at $5 each).
+[05:54:31] [Server thread/INFO]: canucka lost connection: Disconnected
+[05:54:31] [Server thread/INFO]: canucka left the game
+[05:55:12] [User Authenticator #2/INFO]: UUID of player canucka is 17a5625b-04c0-4c16-ad28-9335e067e462
+[05:55:13] [Server thread/INFO]: canucka[/142.244.5.153:50246] logged in with entity id 3392 at ([world]1602.6074415297035, 66.0, -771.341534528503)
+[05:55:58] [Server thread/INFO]: canucka issued server command: /give canucka bricks 2
+[05:56:06] [Server thread/INFO]: canucka issued server command: /give canucka brick_block 2
+[05:56:55] [Server thread/INFO]: canucka issued server command: /give canucka brickblock 2
+[05:56:58] [Server thread/INFO]: canucka issued server command: /give canucka brickBlock 2
+[05:57:29] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:57:32] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:57:35] [Server thread/INFO]: canucka issued server command: /sell hand
+[05:58:11] [Server thread/INFO]: canucka issued server command: /give canucka NetherBlock 2
+[05:58:18] [Server thread/INFO]: canucka issued server command: /give canucka BrickNether 2
+[05:58:55] [Server thread/INFO]: canucka issued server command: /give canucka NetherBrick 2
+[05:58:57] [Server thread/INFO]: canucka issued server command: /give canucka NetherBricks 2
+[05:59:01] [Server thread/INFO]: canucka issued server command: /give canucka Nether_Bricks 2
+[05:59:05] [Server thread/INFO]: canucka issued server command: /give canucka NetherBricks 2
+[05:59:13] [Server thread/INFO]: canucka issued server command: /give canucka Nether_Bricks 2
+[05:59:16] [Server thread/INFO]: canucka issued server command: /give canucka NetherBricks 2
+[05:59:26] [Server thread/INFO]: canucka issued server command: /id
+[06:00:03] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:00:44] [Server thread/INFO]: canucka issued server command: /bal
+[06:00:46] [Server thread/INFO]: canucka issued server command: /baltop
+[06:01:35] [Server thread/INFO]: canucka issued server command: /sell hand
+[06:01:35] [Server thread/INFO]: §acanucka §asold wool for §a$1280 §a(64 items at $20 each).
+[06:02:26] [Server thread/INFO]: canucka issued server command: /sell hand
+[06:02:26] [Server thread/INFO]: §acanucka §asold wool for §a$1600 §a(80 items at $20 each).
+[06:02:34] [Server thread/INFO]: canucka issued server command: /sell hand
+[06:02:34] [Server thread/INFO]: §acanucka §asold wool for §a$320 §a(16 items at $20 each).
+[06:04:37] [Server thread/INFO]: canucka issued server command: /sell hand
+[06:04:37] [Server thread/INFO]: §acanucka §asold glass for §a$192 §a(64 items at $3 each).
+[06:05:38] [Server thread/INFO]: canucka issued server command: /enchant
+[06:05:42] [Server thread/INFO]: canucka issued server command: /enchant knockback
+[06:05:45] [Server thread/INFO]: canucka issued server command: /enchant knockback 100
+[06:05:53] [Server thread/INFO]: canucka issued server command: /enchant sharpness
+[06:05:54] [Server thread/INFO]: canucka issued server command: /enchant sharpness 5
+[06:06:00] [Server thread/INFO]: canucka issued server command: /enchant knockback 2
+[06:06:05] [Server thread/INFO]: canucka issued server command: /essentials help
+[06:06:05] [Server thread/INFO]: Using locale en_US
+[06:06:12] [Server thread/INFO]: canucka issued server command: /help essentials
+[06:06:45] [Server thread/INFO]: canucka issued server command: /sell hand 1
+[06:06:45] [Server thread/INFO]: §acanucka §asold redstone for §a$32 §a(1 items at $32 each).
+[06:07:46] [Server thread/INFO]: canucka issued server command: /sell hand
+[06:07:46] [Server thread/INFO]: §acanucka §asold redstone for §a$2528 §a(79 items at $32 each).
+[06:24:19] [Server thread/INFO]: canucka issued server command: //sphere
+[06:24:22] [Server thread/INFO]: canucka issued server command: //select
+[06:24:28] [Server thread/INFO]: canucka issued server command: //
+[06:24:30] [Server thread/INFO]: canucka issued server command: //
+[06:24:31] [Server thread/INFO]: canucka issued server command: //wand
+[06:24:50] [Server thread/INFO]: canucka issued server command: //expand updown
+[06:24:52] [Server thread/INFO]: canucka issued server command: //expand upd
+[06:24:54] [Server thread/INFO]: canucka issued server command: //expand ud
+[06:24:56] [Server thread/INFO]: canucka issued server command: //expand du
+[06:25:06] [Server thread/INFO]: canucka issued server command: //help expand
+[06:25:18] [Server thread/INFO]: canucka issued server command: //expand up 64
+[06:25:22] [Server thread/INFO]: canucka issued server command: //expand 64 ud
+[06:25:58] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:26:00] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:26:12] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:26:17] [Server thread/INFO]: canucka issued server command: /give greywool
+[06:26:19] [Server thread/INFO]: canucka issued server command: /give greywool 1
+[06:26:22] [Server thread/INFO]: canucka issued server command: /give canuckagreywool 1
+[06:26:24] [Server thread/INFO]: canucka issued server command: /give canucka greywool 1
+[06:26:26] [Server thread/INFO]: canucka issued server command: /give canucka greywool 1
+[06:26:47] [Server thread/INFO]: canucka issued server command: //replace greywool greyconcrete
+[06:26:56] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:27:01] [Server thread/INFO]: canucka issued server command: //replace graywool greyconcrete
+[06:27:14] [Server thread/INFO]: canucka issued server command: //replace greywool greyconcrete
+[06:27:20] [Server thread/INFO]: canucka issued server command: //replace grey_wool greyconcrete
+[06:27:26] [Server thread/INFO]: canucka issued server command: //replace woolgrey greyconcrete
+[06:27:34] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:27:38] [Server thread/INFO]: canucka issued server command: /itemno
+[06:27:55] [Server thread/INFO]: canucka issued server command: //replace wool:7 greyconcrete
+[06:28:02] [Server thread/INFO]: canucka issued server command: //replace 35:7 greyconcrete
+[06:28:37] [Server thread/INFO]: canucka issued server command: //replace 35:7 251:7
+[06:29:21] [Server thread/INFO]: canucka issued server command: //replace 35:15 NetherBrick
+[06:29:27] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:29:34] [Server thread/INFO]: canucka issued server command: //replace 35:15 nbblock
+[06:29:39] [Server thread/INFO]: canucka issued server command: //replace 35:15 netherbrickblock
+[06:29:45] [Server thread/INFO]: canucka issued server command: //replace 35:15 112:0
+[06:30:14] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:30:18] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:30:28] [Server thread/INFO]: canucka issued server command: //replace 4:0 97:0
+[06:30:42] [Server thread/INFO]: canucka issued server command: //undo
+[06:30:45] [Server thread/INFO]: canucka issued server command: //replace 4:0 97:1
+[06:31:01] [Server thread/INFO]: canucka issued server command: //undo
+[06:31:16] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:31:21] [Server thread/INFO]: canucka issued server command: //replace 4:0 98:0
+[06:35:45] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:35:49] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:36:03] [Server thread/INFO]: canucka issued server command: //replace 251:7 43:0
+[06:36:13] [Server thread/INFO]: canucka issued server command: //undo
+[06:36:15] [Server thread/INFO]: canucka issued server command: //replace 251:7 43:1
+[06:36:19] [Server thread/INFO]: canucka issued server command: //undo
+[06:38:07] [Server thread/INFO]: canucka issued server command: //replace 251:7 smooth_stone
+[06:38:14] [Server thread/INFO]: canucka issued server command: //undo
+[06:38:47] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:38:57] [Server thread/INFO]: canucka issued server command: //replace 251:7 252:15
+[06:39:00] [Server thread/INFO]: canucka issued server command: //undo
+[06:42:08] [Server thread/INFO]: canucka issued server command: //replace 251:7 stone
+[06:42:43] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:42:55] [Server thread/INFO]: canucka issued server command: //replace 35:14 bricks
+[06:43:08] [Server thread/INFO]: canucka issued server command: //replace 35:0 NetherQuartzBlock
+[06:43:28] [Server thread/INFO]: canucka issued server command: //replace 35:0 Quartz
+[06:43:34] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:43:37] [Server thread/INFO]: canucka issued server command: //replace 35:0 155
+[06:44:30] [Server thread/INFO]: canucka issued server command: /itemdb
+[06:44:37] [Server thread/INFO]: canucka issued server command: //replace 35:9 168
+[06:44:41] [Server thread/INFO]: canucka issued server command: //undo
+[06:44:45] [Server thread/INFO]: canucka issued server command: //replace 35:9 168:1
+[06:46:45] [Server thread/INFO]: canucka issued server command: /stop
+[06:46:45] [Server thread/INFO]: [canucka: Stopping the server]
+[06:46:45] [Server thread/INFO]: Stopping server
+[06:46:45] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v5.13.1
+[06:46:45] [Server thread/INFO]: [0;32;1m=============================[m
+[06:46:45] [Server thread/INFO]: [0;37;22mTreeAssist 5.13.1 by [0;35;22mBrianna <3[0;37;22m![m
+[06:46:45] [Server thread/INFO]: [0;37;22mAction: [0;31;1mDisabling[0;37;22m...[m
+[06:46:45] [Server thread/INFO]: [0;32;1m=============================[m
+[06:46:45] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
+[06:46:45] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.0-beta01;01dfebe
+[06:46:45] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[06:46:45] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[06:46:45] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[06:46:45] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[06:46:45] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.9.0
+[06:46:45] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[06:46:45] [Server thread/INFO]: [Arconix] Disabling Arconix v2.0.0
+[06:46:45] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-01;8975469
+[06:46:45] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v4.3.7
+[06:46:45] [Server thread/INFO]: [LuckPerms] Closing storage...
+[06:46:46] [Server thread/INFO]: [LuckPerms] Shutting down internal scheduler...
+[06:46:46] [Server thread/INFO]: [LuckPerms] Goodbye!
+[06:46:46] [Server thread/INFO]: Saving players
+[06:46:46] [Server thread/INFO]: canucka lost connection: Server closed
+[06:46:46] [Server thread/INFO]: canucka left the game
+[06:46:46] [Server thread/INFO]: Saving worlds
+[06:46:46] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[06:46:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[06:46:46] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether

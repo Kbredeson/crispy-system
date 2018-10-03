@@ -1,0 +1,54 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 12288 bytes for committing reserved memory.
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   In 32 bit mode, the process size limit was hit
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Use 64 bit Java on a 64 bit OS
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (os_linux.cpp:2657), pid=3270, tid=0x00007f764d480700
+#
+# JRE version: OpenJDK Runtime Environment (8.0_181-b13) (build 1.8.0_181-b13)
+# Java VM: OpenJDK 64-Bit Server VM (25.181-b13 mixed mode linux-amd64 compressed oops)
+# Failed to write core dump. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00007f766cad9000):  JavaThread "pool-16-thread-2" [_thread_new, id=3409, stack(0x00007f764d380000,0x00007f764d481000)]
+
+Stack: [0x00007f764d380000,0x00007f764d481000],  sp=0x00007f764d47fb20,  free space=1022k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [libjvm.so+0xb86142]
+V  [libjvm.so+0x50c107]
+V  [libjvm.so+0x933f36]
+V  [libjvm.so+0x92e6ee]
+V  [libjvm.so+0x9354a7]
+V  [libjvm.so+0xb25e9c]
+V  [libjvm.so+0x931782]
+C  [libpthread.so.0+0x754b]  start_thread+0xdb
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+=>0x00007f766cad9000 JavaThread "pool-16-thread-2" [_thread_new, id=3409, stack(0x00007f764d380000,0x00007f764d481000)]
+  0x00007f766c69b000 JavaThread "pool-10-thread-1" [_thread_blocked, id=3377, stack(0x00007f7646bfd000,0x00007f7646cfe000)]
+  0x00007f7658028000 JavaThread "Netty Epoll Server IO #1" daemon [_thread_in_vm, id=3366, stack(0x00007f764c29d000,0x00007f764c39e000)]
+  0x00007f766cb51800 JavaThread "File IO Thread" [_thread_blocked, id=3362, stack(0x00007f764c39e000,0x00007f764c49f000)]
+  0x00007f766cb0a000 JavaThread "Timer-2" daemon [_thread_in_vm, id=3351, stack(0x00007f764c9a4000,0x00007f764caa5000)]
+  0x00007f766cab5800 JavaThread "Timer-1" [_thread_blocked, id=3347, stack(0x00007f764d481000,0x00007f764d582000)]
+  0x00007f766c89e000 JavaThread "Timer-0" [_thread_blocked, id=3342, stack(0x00007f764dc6f000,0x00007f764dd70000)]
+  0x00007f766c53b000 JavaThread "MVStore background writer nio:/home/ec2-user/minecraft/plugins/LuckPerms/luckperms-h2.mv.db" daemon [_thread_in_vm, id=3317, stack(0x00007f764ea62000,0x00007f764eb63000)]
+  0x00007f766c4aa800 JavaThread "Abandoned connection cleanup thread" daemon [_thread_in_vm, id=3315, stack(0x00007f764ed63000,0x00007f764ee64000)]
+  0x00007f766c491000 JavaThread "Thread-7" daemon [_thread_in_native, id=3314, stack(0x00007f764ee64000,0x00007f764ef65000)]
+  0x00007f7664007800 
