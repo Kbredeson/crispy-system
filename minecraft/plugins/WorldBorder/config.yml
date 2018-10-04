@@ -22,6 +22,6 @@ worlds:
   world:
     x: 1631.0
     z: -792.0
-    radiusX: 512
-    radiusZ: 512
+    radiusX: 2048
+    radiusZ: 2048
     wrapping: true

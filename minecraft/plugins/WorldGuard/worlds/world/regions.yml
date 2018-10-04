@@ -14,7 +14,7 @@ regions:
         min: {x: 1565.0, y: 0.0, z: -828.0}
         max: {x: 1638.0, y: 255.0, z: -727.0}
         members: {}
-        flags: {greeting: '"You have entered a safe space."', pvp: deny, farewell: '"You
+        flags: {greeting: '"§2You have entered a safe space."', pvp: deny, farewell: '"§cYou
                 have entered the real world."'}
         owners: {}
         type: cuboid
@@ -23,7 +23,7 @@ regions:
         min: {x: 1524.0, y: 59.0, z: -794.0}
         max: {x: 1567.0, y: 70.0, z: -791.0}
         members: {}
-        flags: {}
+        flags: {farewell: '"You left the yellow brick road"'}
         owners: {}
         type: cuboid
         priority: 0

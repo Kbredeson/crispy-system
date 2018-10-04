@@ -1,398 +1,572 @@
-[18:47:16] [main/INFO]: Loaded 0 recipes
-[18:47:16] [Server thread/INFO]: Starting minecraft server version 1.13.1
-[18:47:16] [Server thread/INFO]: Loading properties
-[18:47:16] [Server thread/INFO]: Default game type: SURVIVAL
-[18:47:17] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-f6a273b-68588da (MC: 1.13.1) (Implementing API version 1.13.1-R0.1-SNAPSHOT)
-[18:47:17] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:47:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:47:17] [Server thread/INFO]: Debug logging is disabled
-[18:47:17] [Server thread/INFO]: Generating keypair
-[18:47:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:47:18] [Server thread/INFO]: Using epoll channel type
-[18:47:27] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[18:47:27] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v4.3.7
-[18:47:27] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0-beta-01;8975469
-[18:47:27] [Server thread/INFO]: [Arconix] Loading Arconix v2.0.0
-[18:47:27] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.9.0
-[18:47:27] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
-[18:47:27] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
-[18:47:27] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
-[18:47:27] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.0-beta01;01dfebe
-[18:47:27] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vTeamCity
-[18:47:27] [Server thread/INFO]: [TreeAssist] Loading TreeAssist v5.13.1
-[18:47:27] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v4.3.7
-[18:47:27] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
-[18:47:27] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms [0;36;1mv4.3.7[m
-[18:47:27] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
-[18:47:27] [Server thread/INFO]: [m
-[18:47:27] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:47:28] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:47:29] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:47:29] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:47:30] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2232ms)
-[18:47:30] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[18:47:30] [Server thread/INFO]: Preparing level "world"
-[18:47:30] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[18:47:31] [Server thread/INFO]: Loaded 524 recipes
-[18:47:32] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:47:32] [Server thread/INFO]: Mob Spawn Range: 3
-[18:47:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:47:32] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:47:32] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:47:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:47:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:47:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:47:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:47:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:47:32] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:47:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:47:32] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Mi 2 / Tiv true
-[18:47:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:47:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[18:47:32] [Server thread/INFO]: Random Lighting Updates: false
-[18:47:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[18:47:32] [Server thread/INFO]: Max TNT Explosions: 100
-[18:47:32] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
-[18:47:32] [Server thread/INFO]: Experience Merge Radius: 6.0
-[18:47:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:47:32] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:47:32] [Server thread/INFO]: Item Merge Radius: 4.0
-[18:47:32] [Server thread/INFO]: View Distance: 4
-[18:47:32] [Server thread/INFO]: Arrow Despawn Rate: 100
-[18:47:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:47:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:47:33] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[18:47:33] [Server thread/INFO]: Mob Spawn Range: 3
-[18:47:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Mi 2 / Tiv true
-[18:47:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:47:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[18:47:33] [Server thread/INFO]: Random Lighting Updates: false
-[18:47:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[18:47:33] [Server thread/INFO]: Max TNT Explosions: 100
-[18:47:33] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
-[18:47:33] [Server thread/INFO]: Experience Merge Radius: 6.0
-[18:47:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:47:33] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:47:33] [Server thread/INFO]: Item Merge Radius: 4.0
-[18:47:33] [Server thread/INFO]: View Distance: 4
-[18:47:33] [Server thread/INFO]: Arrow Despawn Rate: 100
-[18:47:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:47:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:47:33] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[18:47:33] [Server thread/INFO]: Mob Spawn Range: 3
-[18:47:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:47:33] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Mi 2 / Tiv true
-[18:47:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:47:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[18:47:33] [Server thread/INFO]: Random Lighting Updates: false
-[18:47:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[18:47:33] [Server thread/INFO]: Max TNT Explosions: 100
-[18:47:33] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
-[18:47:33] [Server thread/INFO]: Experience Merge Radius: 6.0
-[18:47:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:47:33] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:47:33] [Server thread/INFO]: Item Merge Radius: 4.0
-[18:47:33] [Server thread/INFO]: View Distance: 4
-[18:47:33] [Server thread/INFO]: Arrow Despawn Rate: 100
-[18:47:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:47:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:47:33] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -3969618050312224901)
-[18:47:33] [Server thread/INFO]: Preparing spawn area: 4%
-[18:47:33] [Server thread/INFO]: Preparing spawn area: 8%
-[18:47:34] [Server thread/INFO]: Preparing spawn area: 12%
-[18:47:34] [Server thread/INFO]: Preparing spawn area: 16%
-[18:47:34] [Server thread/INFO]: Preparing spawn area: 20%
-[18:47:34] [Server thread/INFO]: Preparing spawn area: 24%
-[18:47:34] [Server thread/INFO]: Preparing spawn area: 28%
-[18:47:34] [Server thread/INFO]: Preparing spawn area: 32%
-[18:47:34] [Server thread/INFO]: Preparing spawn area: 36%
-[18:47:34] [Server thread/INFO]: Preparing spawn area: 40%
-[18:47:35] [Server thread/INFO]: Preparing spawn area: 44%
-[18:47:35] [Server thread/INFO]: Preparing spawn area: 48%
-[18:47:35] [Server thread/INFO]: Preparing spawn area: 52%
-[18:47:35] [Server thread/INFO]: Preparing spawn area: 56%
-[18:47:35] [Server thread/INFO]: Preparing spawn area: 60%
-[18:47:35] [Server thread/INFO]: Preparing spawn area: 64%
-[18:47:35] [Server thread/INFO]: Preparing spawn area: 68%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 72%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 76%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 80%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 84%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 88%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 92%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 96%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 100%
-[18:47:36] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -3969618050312224901)
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 4%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 8%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 12%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 16%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 20%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 24%
-[18:47:36] [Server thread/INFO]: Preparing spawn area: 28%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 32%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 36%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 40%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 44%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 48%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 52%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 56%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 60%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 64%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 68%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 72%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 76%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 80%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 84%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 88%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 92%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 96%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 100%
-[18:47:37] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -3969618050312224901)
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 4%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 8%
-[18:47:37] [Server thread/INFO]: Preparing spawn area: 12%
-[18:47:38] [Server thread/INFO]: Preparing spawn area: 16%
-[18:47:38] [Server thread/INFO]: Preparing spawn area: 20%
-[18:47:38] [Server thread/INFO]: Preparing spawn area: 24%
-[18:47:38] [Server thread/INFO]: Preparing spawn area: 28%
-[18:47:38] [Server thread/INFO]: Preparing spawn area: 32%
-[18:47:39] [Server thread/INFO]: Preparing spawn area: 36%
-[18:47:39] [Server thread/INFO]: Preparing spawn area: 40%
-[18:47:39] [Server thread/INFO]: Preparing spawn area: 44%
-[18:47:39] [Server thread/INFO]: Preparing spawn area: 48%
-[18:47:39] [Server thread/INFO]: Preparing spawn area: 52%
-[18:47:39] [Server thread/INFO]: Preparing spawn area: 56%
-[18:47:39] [Server thread/INFO]: Preparing spawn area: 60%
-[18:47:39] [Server thread/INFO]: Preparing spawn area: 64%
-[18:47:39] [Server thread/INFO]: Preparing spawn area: 68%
-[18:47:40] [Server thread/INFO]: Preparing spawn area: 72%
-[18:47:40] [Server thread/INFO]: Preparing spawn area: 76%
-[18:47:40] [Server thread/INFO]: Preparing spawn area: 80%
-[18:47:40] [Server thread/INFO]: Preparing spawn area: 84%
-[18:47:40] [Server thread/INFO]: Preparing spawn area: 88%
-[18:47:40] [Server thread/INFO]: Preparing spawn area: 92%
-[18:47:40] [Server thread/INFO]: Preparing spawn area: 96%
-[18:47:40] [Server thread/INFO]: Preparing spawn area: 100%
-[18:47:40] [Server thread/INFO]: Time elapsed: 7694 ms
-[18:47:40] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0-beta-01;8975469
-[18:47:41] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_13_R2 as the Bukkit adapter
-[18:47:43] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[18:47:43] [Server thread/INFO]: [Arconix] Enabling Arconix v2.0.0
-[18:47:43] [Server thread/INFO]: Setting up packets for v1_13_R2
-[18:47:43] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.9.0
-[18:47:43] [Server thread/INFO]: [WorldBorder] [CONFIG] Using rectangular/square border, knockback of 3.0 blocks, and timer delay of 5.
-[18:47:43] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
-[18:47:43] [Server thread/INFO]: [WorldBorder] [CONFIG] World "world" has border radius 512 at X: 1631.0 Z: -792.0 (wrapping)
-[18:47:43] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: 1631.0 Y: 68.0 Z: -792.0
-[18:47:43] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
-[18:47:43] [Server thread/INFO]: Using locale en_US
-[18:47:43] [Server thread/INFO]: Using locale en_US
-[18:47:43] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[18:47:43] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[18:47:43] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
-[18:47:43] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
-[18:47:43] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.0-beta01;01dfebe
-[18:47:44] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[18:47:44] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[18:47:44] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[18:47:44] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[18:47:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[18:47:44] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[18:47:44] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[18:47:44] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[18:47:44] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[18:47:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[18:47:44] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[18:47:44] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[18:47:44] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[18:47:44] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[18:47:44] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[18:47:44] [Server thread/INFO]: [WorldGuard] Loading region data...
-[18:47:44] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vTeamCity
-[18:47:44] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v5.13.1
-[18:47:44] [Server thread/INFO]: [Arconix] Plugin hooked: TreeAssist
-[18:47:44] [Server thread/INFO]: [0;32;1m=============================[m
-[18:47:44] [Server thread/INFO]: [0;37;22mTreeAssist 5.13.1 by [0;35;22mSongoda <3[0;37;22m![m
-[18:47:44] [Server thread/INFO]: [0;37;22mAction: [0;32;1mEnabling[0;37;22m...[m
-[18:47:44] [Server thread/INFO]: [TreeAssist] Loading data file
-[18:47:45] [Server thread/INFO]: [0;32;1m=============================[m
-[18:47:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:47:46] [Server thread/INFO]: Done (16.350s)! For help, type "help"
-[19:14:09] [Server thread/INFO]: [0;33;1mWorldBorder v1.9.0  -  key: [0;36;1m[4mcommand[m [0;32;1m<required> [0;32;22m[optional][m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mhelp[m [0;32;22m[command] [0;37;1m- get help on command usage.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4mset[m [0;32;1m<radiusX> [0;32;22m[radiusZ] [0;32;1m<x> [0;32;1m<z> [0;37;1m- use x/z coords.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4mset[m [0;32;1m<radiusX> [0;32;22m[radiusZ] [0;36;1mspawn [0;37;1m- use spawn point.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mset[m [0;32;1m<radiusX> [0;32;22m[radiusZ] [0;36;1mplayer [0;32;1m<name> [0;37;1m- center on player.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4msetcorners[m [0;32;1m<x1> [0;32;1m<z1> [0;32;1m<x2> [0;32;1m<z2> [0;37;1m- corner coords.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4mradius[m [0;32;1m<radiusX> [0;32;22m[radiusZ] [0;37;1m- change radius.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mlist[m [0;37;1m- show border information for all worlds.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mshape[m [0;32;1m<round|square> [0;37;1m- set the default border shape.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mshape[m [0;32;1m<elliptic|rectangular> [0;37;1m- same as above.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4mclear[m [0;37;1m- remove border for this world.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mclear[m [0;36;1mall [0;37;1m- remove border for all worlds.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4mfill[m [0;32;22m[freq] [0;32;22m[pad] [0;32;22m[force] [0;37;1m- fill world to border.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4mtrim[m [0;32;22m[freq] [0;32;22m[pad] [0;37;1m- trim world outside of border.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mbypass[m [0;32;1m<player> [0;32;22m[on|off] [0;37;1m- let player go beyond border.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mbypasslist[m [0;37;1m- list players with border bypass enabled.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mknockback[m [0;32;1m<distance> [0;37;1m- how far to move the player back.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mwrap[m [0;32;1m<world> [0;32;1m<on|off> [0;37;1m- can make border crossings wrap.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mwhoosh[m [0;32;1m<on|off> [0;37;1m- turn knockback effect on or off.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mgetmsg[m [0;37;1m- display border message.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4msetmsg[m [0;32;1m<text> [0;37;1m- set border message.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mwshape[m [0;32;1m<world> [0;32;1m<elliptic|rectangular|default> [0;37;1m- shape[m
-[19:14:09] [Server thread/INFO]: [0;37;1m     override for a single world.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mwshape[m [0;32;1m<world> [0;32;1m<round|square|default> [0;37;1m- same as above.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mpreventblockplace[m [0;32;1m<on|off> [0;37;1m- stop block placement past border.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mpreventmobspawn[m [0;32;1m<on|off> [0;37;1m- stop mob spawning past border.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mdelay[m [0;32;1m<amount> [0;37;1m- time between border checks.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mdynmap[m [0;32;1m<on|off> [0;37;1m- turn DynMap border display on or off.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mdynmapmsg[m [0;32;1m<text> [0;37;1m- DynMap border labels will show this.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mremount[m [0;32;1m<amount> [0;37;1m- player remount delay after knockback.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mfillautosave[m [0;32;1m<seconds> [0;37;1m- world save interval for Fill.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mportal[m [0;32;1m<on|off> [0;37;1m- turn portal redirection on or off.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mdenypearl[m [0;32;1m<on|off> [0;37;1m- stop ender pearls past the border.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mreload[m [0;37;1m- re-load data from config.yml.[m
-[19:14:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mdebug[m [0;32;1m<on|off> [0;37;1m- turn console debug output on or off.[m
-[19:14:24] [Server thread/INFO]: [0;31;1mCommand not recognized. Showing command list.[m
-[19:14:24] [Server thread/INFO]: [0;33;1mWorldBorder v1.9.0  -  key: [0;36;1m[4mcommand[m [0;32;1m<required> [0;32;22m[optional][m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mhelp[m [0;32;22m[command] [0;37;1m- get help on command usage.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4mset[m [0;32;1m<radiusX> [0;32;22m[radiusZ] [0;32;1m<x> [0;32;1m<z> [0;37;1m- use x/z coords.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4mset[m [0;32;1m<radiusX> [0;32;22m[radiusZ] [0;36;1mspawn [0;37;1m- use spawn point.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mset[m [0;32;1m<radiusX> [0;32;22m[radiusZ] [0;36;1mplayer [0;32;1m<name> [0;37;1m- center on player.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4msetcorners[m [0;32;1m<x1> [0;32;1m<z1> [0;32;1m<x2> [0;32;1m<z2> [0;37;1m- corner coords.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4mradius[m [0;32;1m<radiusX> [0;32;22m[radiusZ] [0;37;1m- change radius.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mlist[m [0;37;1m- show border information for all worlds.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mshape[m [0;32;1m<round|square> [0;37;1m- set the default border shape.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mshape[m [0;32;1m<elliptic|rectangular> [0;37;1m- same as above.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4mclear[m [0;37;1m- remove border for this world.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mclear[m [0;36;1mall [0;37;1m- remove border for all worlds.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4mfill[m [0;32;22m[freq] [0;32;22m[pad] [0;32;22m[force] [0;37;1m- fill world to border.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4mtrim[m [0;32;22m[freq] [0;32;22m[pad] [0;37;1m- trim world outside of border.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mbypass[m [0;32;1m<player> [0;32;22m[on|off] [0;37;1m- let player go beyond border.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mbypasslist[m [0;37;1m- list players with border bypass enabled.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mknockback[m [0;32;1m<distance> [0;37;1m- how far to move the player back.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mwrap[m [0;32;1m<world> [0;32;1m<on|off> [0;37;1m- can make border crossings wrap.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mwhoosh[m [0;32;1m<on|off> [0;37;1m- turn knockback effect on or off.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mgetmsg[m [0;37;1m- display border message.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4msetmsg[m [0;32;1m<text> [0;37;1m- set border message.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mwshape[m [0;32;1m<world> [0;32;1m<elliptic|rectangular|default> [0;37;1m- shape[m
-[19:14:24] [Server thread/INFO]: [0;37;1m     override for a single world.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mwshape[m [0;32;1m<world> [0;32;1m<round|square|default> [0;37;1m- same as above.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mpreventblockplace[m [0;32;1m<on|off> [0;37;1m- stop block placement past border.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mpreventmobspawn[m [0;32;1m<on|off> [0;37;1m- stop mob spawning past border.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mdelay[m [0;32;1m<amount> [0;37;1m- time between border checks.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mdynmap[m [0;32;1m<on|off> [0;37;1m- turn DynMap border display on or off.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mdynmapmsg[m [0;32;1m<text> [0;37;1m- DynMap border labels will show this.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mremount[m [0;32;1m<amount> [0;37;1m- player remount delay after knockback.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mfillautosave[m [0;32;1m<seconds> [0;37;1m- world save interval for Fill.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mportal[m [0;32;1m<on|off> [0;37;1m- turn portal redirection on or off.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mdenypearl[m [0;32;1m<on|off> [0;37;1m- stop ender pearls past the border.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mreload[m [0;37;1m- re-load data from config.yml.[m
-[19:14:24] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mdebug[m [0;32;1m<on|off> [0;37;1m- turn console debug output on or off.[m
-[19:15:13] [Server thread/INFO]: [0;31;1mYou have not provided a valid number of parameters.[m
-[19:15:13] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mpreventblockplace[m [0;32;1m<on|off> [0;37;1m- stop block placement past border.[m
-[19:15:13] [Server thread/INFO]: [0;33;1mPrevention of block placement outside the border is [0;31;1mdisabled[0;33;1m.[m
-[19:15:13] [Server thread/INFO]: [0;37;1mDefault value: off. When enabled, this setting will prevent players from placing blocks outside the world's border.[m
-[19:15:41] [Server thread/INFO]: [0;31;1mYou have not provided a valid number of parameters.[m
-[19:15:41] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mdynmap[m [0;32;1m<on|off> [0;37;1m- turn DynMap border display on or off.[m
-[19:15:41] [Server thread/INFO]: [0;33;1mDynMap border display is [0;32;1menabled[0;33;1m.[m
-[19:15:41] [Server thread/INFO]: [0;37;1mDefault value: on. If you are running the DynMap plugin and this setting is enabled, all borders will be visually shown in DynMap.[m
-[19:15:44] [Server thread/INFO]: [WorldBorder] DynMap border display is now disabled.
-[19:15:44] [Server thread/INFO]: [WorldBorder] [CONFIG] Configuration saved.
-[19:15:54] [Server thread/INFO]: [WorldBorder] Direct cancellation of ender pearls thrown past the border disabled.
-[19:15:54] [Server thread/INFO]: [WorldBorder] [CONFIG] Configuration saved.
-[19:16:09] [Server thread/INFO]: [0;36;1mwb [0;36;1m[4mhelp[m [0;32;22m[command] [0;37;1m- get help on command usage.[m
-[19:16:09] [Server thread/INFO]: [0;33;1mCommands: [0;36;1mbypass[0;37;1m, [0;36;1mbypasslist[0;37;1m, [0;36;1mclear[0;37;1m, [0;36;1mdebug[0;37;1m, [0;36;1mdelay[0;37;1m, [0;36;1mdenypearl[0;37;1m, [0;36;1mdynmap[0;37;1m, [0;36;1mdynmapmsg[0;37;1m, [0;36;1mfill[0;37;1m, [0;36;1mfillautosave[0;37;1m, [0;36;1mgetmsg[0;37;1m, [0;36;1mhelp[0;37;1m, [0;36;1mknockback[0;37;1m, [0;36;1mlist[0;37;1m, [0;36;1mportal[0;37;1m, [0;36;1mpreventblockplace[0;37;1m, [0;36;1mpreventmobspawn[0;37;1m, [0;36;1mradius[0;37;1m, [0;36;1mreload[0;37;1m, [0;36;1mremount[0;37;1m, [0;36;1mset[0;37;1m, [0;36;1msetcorners[0;37;1m, [0;36;1msetmsg[0;37;1m, [0;36;1mshape[0;37;1m, [0;36;1mtrim[0;37;1m, [0;36;1mwhoosh[0;37;1m, [0;36;1mwrap[0;37;1m, [0;36;1mwshape[m
-[19:16:09] [Server thread/INFO]: Example, for info on "set" command: [0;36;1mwb [0;36;1m[4mhelp[m [0;36;1mset[m
-[19:16:09] [Server thread/INFO]: [0;33;1mFor a full command example list, simply run the root [0;36;1mwb [0;33;1mcommand by itself with nothing specified.[m
-[19:16:34] [Server thread/INFO]: CONSOLE issued server command: /help wb
-[19:16:34] [Server thread/INFO]: To view help from the console, type ?.[m
-[19:16:39] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: /wb [0;33;1m-----------------------------[m
-[19:16:39] [Server thread/INFO]: [0;33;1mAlias for [0;37;1m/wborder[m
-[19:16:39] [Server thread/INFO]: [0;33;22mDescription: [0;37;1mPrimary command for WorldBorder.[m
-[19:16:39] [Server thread/INFO]: [0;33;22mUsage: [0;37;1m/wborder - list available commands (show help).[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder help [command] - get help on command usage.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder [world] set <radiusX> [radiusZ] <x> <z> - set world border.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder [world] set <radiusX> [radiusZ] spawn - use spawn point.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder set <radiusX> [radiusZ] - set world border, centered on you.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder set <radiusX> [radiusZ] player <name> - center on player.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder [world] setcorners <x1> <z1> <x2> <z2> - set border from corners.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder [world] radius <radiusX> [radiusZ] - change border's radius.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder list - show border information for all worlds.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder shape <elliptic|rectangular> - set the default border shape.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder shape <round|square> - same as above, backwards compatible.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder [world] clear - remove border for this world.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder clear all - remove border for all worlds.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder [world] fill [freq] [pad] [force] - generate world to border.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder [world] trim [freq] [pad] - trim world outside of border.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder bypass [player] [on/off] - let player go beyond border.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder bypasslist - list players with border bypass enabled.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder knockback <distance> - how far to move the player back.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder wrap [world] <on/off> - can make border crossings wrap around.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder whoosh <on/off> - turn knockback effect on or off.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder getmsg - display border message.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder setmsg <text> - set border message.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder wshape [world] <elliptic|rectangular|default> - override shape.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder wshape [world] <round|square|default> - same as above values.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder delay <amount> - time between border checks.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder dynmap <on/off> - turn DynMap border display on or off.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder dynmapmsg <text> - DynMap border labels will show this.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder remount <amount> - delay before remounting after knockback.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder fillautosave <seconds> - world save interval for Fill process.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder portal <on/off> - turn portal redirection on or off.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder denypearl <on/off> - stop ender pearls thrown past the border.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder preventblockplace <on|off> - stop block placement past border.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder preventmobspawn <on|off> - stop mob spawning past border.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder reload - re-load data from config.yml.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m/wborder debug <on/off> - turn debug mode on or off.[m
-[19:16:39] [Server thread/INFO]: [0;37;1m[m
-[19:16:39] [Server thread/INFO]: [0;33;22mAliases: [0;37;1m[0;37;1mwb[m
-[19:17:18] [Server thread/INFO]: [0;31;1mThis command requires a world to be specified if run by the console.[m
-[19:17:18] [Server thread/INFO]: [0;36;1mwb [0;32;1m<world> [0;36;1m[4mradius[m [0;32;1m<radiusX> [0;32;22m[radiusZ] [0;37;1m- change radius.[m
-[19:17:18] [Server thread/INFO]: [0;37;1mUsing this command you can adjust the radius of an existing border. If [radiusZ] is not specified, the radiusX value will be used for both. You can also optionally specify + or - at the start of <radiusX> and [radiusZ] to increase or decrease the existing radius rather than setting a new value.[m
-[19:19:04] [Server thread/INFO]: Stopping the server
-[19:19:04] [Server thread/INFO]: Stopping server
-[19:19:04] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v5.13.1
-[19:19:04] [Server thread/INFO]: [0;32;1m=============================[m
-[19:19:04] [Server thread/INFO]: [0;37;22mTreeAssist 5.13.1 by [0;35;22mBrianna <3[0;37;22m![m
-[19:19:04] [Server thread/INFO]: [0;37;22mAction: [0;31;1mDisabling[0;37;22m...[m
-[19:19:04] [Server thread/INFO]: [0;32;1m=============================[m
-[19:19:04] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
-[19:19:04] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.0-beta01;01dfebe
-[19:19:04] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[19:19:04] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
-[19:19:04] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
-[19:19:04] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
-[19:19:04] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.9.0
-[19:19:04] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
-[19:19:04] [Server thread/INFO]: [Arconix] Disabling Arconix v2.0.0
-[19:19:04] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-01;8975469
-[19:19:04] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v4.3.7
-[19:19:04] [Server thread/INFO]: [LuckPerms] Closing storage...
-[19:19:04] [Server thread/INFO]: [LuckPerms] Shutting down internal scheduler...
-[19:19:04] [Server thread/INFO]: [LuckPerms] Goodbye!
-[19:19:04] [Server thread/INFO]: Saving players
-[19:19:04] [Server thread/INFO]: Saving worlds
-[19:19:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:19:04] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[19:19:04] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[14:57:55] [main/INFO]: Loaded 0 recipes
+[14:57:55] [Server thread/INFO]: Starting minecraft server version 1.13.1
+[14:57:55] [Server thread/INFO]: Loading properties
+[14:57:55] [Server thread/INFO]: Default game type: SURVIVAL
+[14:57:56] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-f6a273b-68588da (MC: 1.13.1) (Implementing API version 1.13.1-R0.1-SNAPSHOT)
+[14:57:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:57:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:57:56] [Server thread/INFO]: Debug logging is disabled
+[14:57:56] [Server thread/INFO]: Generating keypair
+[14:57:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:57:57] [Server thread/INFO]: Using epoll channel type
+[14:58:05] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[14:58:06] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v4.3.7
+[14:58:06] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0-beta-01;8975469
+[14:58:06] [Server thread/INFO]: [Arconix] Loading Arconix v2.0.0
+[14:58:06] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.9.0
+[14:58:06] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[14:58:06] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[14:58:06] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[14:58:06] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.0-beta01;01dfebe
+[14:58:06] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild vTeamCity
+[14:58:06] [Server thread/INFO]: [TreeAssist] Loading TreeAssist v5.13.1
+[14:58:06] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v4.3.7
+[14:58:06] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[14:58:06] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms [0;36;1mv4.3.7[m
+[14:58:06] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[14:58:06] [Server thread/INFO]: [m
+[14:58:06] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[14:58:06] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[14:58:08] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[14:58:08] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[14:58:09] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2536ms)
+[14:58:09] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:58:09] [Server thread/INFO]: Preparing level "world"
+[14:58:09] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:58:11] [Server thread/INFO]: Loaded 524 recipes
+[14:58:12] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:58:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Mi 2 / Tiv true
+[14:58:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:58:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:58:12] [Server thread/INFO]: Random Lighting Updates: false
+[14:58:12] [Server thread/INFO]: Mob Spawn Range: 3
+[14:58:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:58:12] [Server thread/INFO]: Max TNT Explosions: 100
+[14:58:12] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[14:58:12] [Server thread/INFO]: Experience Merge Radius: 6.0
+[14:58:12] [Server thread/INFO]: View Distance: 4
+[14:58:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:58:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:58:12] [Server thread/INFO]: Item Merge Radius: 4.0
+[14:58:12] [Server thread/INFO]: Arrow Despawn Rate: 100
+[14:58:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:58:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:58:12] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:58:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Mi 2 / Tiv true
+[14:58:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:58:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:58:12] [Server thread/INFO]: Random Lighting Updates: false
+[14:58:12] [Server thread/INFO]: Mob Spawn Range: 3
+[14:58:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:58:12] [Server thread/INFO]: Max TNT Explosions: 100
+[14:58:12] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[14:58:12] [Server thread/INFO]: Experience Merge Radius: 6.0
+[14:58:12] [Server thread/INFO]: View Distance: 4
+[14:58:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:58:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:58:12] [Server thread/INFO]: Item Merge Radius: 4.0
+[14:58:12] [Server thread/INFO]: Arrow Despawn Rate: 100
+[14:58:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:58:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:58:12] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:58:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:58:12] [Server thread/INFO]: Entity Activation Range: An 12 / Mo 20 / Mi 2 / Tiv true
+[14:58:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:58:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:58:12] [Server thread/INFO]: Random Lighting Updates: false
+[14:58:12] [Server thread/INFO]: Mob Spawn Range: 3
+[14:58:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[14:58:12] [Server thread/INFO]: Max TNT Explosions: 100
+[14:58:12] [Server thread/INFO]: Tile Max Tick Time: 1000ms Entity max Tick Time: 1000ms
+[14:58:12] [Server thread/INFO]: Experience Merge Radius: 6.0
+[14:58:12] [Server thread/INFO]: View Distance: 4
+[14:58:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:58:12] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:58:12] [Server thread/INFO]: Item Merge Radius: 4.0
+[14:58:12] [Server thread/INFO]: Arrow Despawn Rate: 100
+[14:58:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:58:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:58:12] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -3969618050312224901)
+[14:58:12] [Server thread/INFO]: Preparing spawn area: 4%
+[14:58:12] [Server thread/INFO]: Preparing spawn area: 8%
+[14:58:12] [Server thread/INFO]: Preparing spawn area: 12%
+[14:58:13] [Server thread/INFO]: Preparing spawn area: 16%
+[14:58:13] [Server thread/INFO]: Preparing spawn area: 20%
+[14:58:13] [Server thread/INFO]: Preparing spawn area: 24%
+[14:58:13] [Server thread/INFO]: Preparing spawn area: 28%
+[14:58:13] [Server thread/INFO]: Preparing spawn area: 32%
+[14:58:13] [Server thread/INFO]: Preparing spawn area: 36%
+[14:58:13] [Server thread/INFO]: Preparing spawn area: 40%
+[14:58:13] [Server thread/INFO]: Preparing spawn area: 44%
+[14:58:13] [Server thread/INFO]: Preparing spawn area: 48%
+[14:58:13] [Server thread/INFO]: Preparing spawn area: 52%
+[14:58:13] [Server thread/INFO]: Preparing spawn area: 56%
+[14:58:14] [Server thread/INFO]: Preparing spawn area: 60%
+[14:58:14] [Server thread/INFO]: Preparing spawn area: 64%
+[14:58:14] [Server thread/INFO]: Preparing spawn area: 68%
+[14:58:14] [Server thread/INFO]: Preparing spawn area: 72%
+[14:58:14] [Server thread/INFO]: Preparing spawn area: 76%
+[14:58:14] [Server thread/INFO]: Preparing spawn area: 80%
+[14:58:14] [Server thread/INFO]: Preparing spawn area: 84%
+[14:58:14] [Server thread/INFO]: Preparing spawn area: 88%
+[14:58:14] [Server thread/INFO]: Preparing spawn area: 92%
+[14:58:14] [Server thread/INFO]: Preparing spawn area: 96%
+[14:58:14] [Server thread/INFO]: Preparing spawn area: 100%
+[14:58:14] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -3969618050312224901)
+[14:58:14] [Server thread/INFO]: Preparing spawn area: 4%
+[14:58:15] [Server thread/INFO]: Preparing spawn area: 8%
+[14:58:15] [Server thread/INFO]: Preparing spawn area: 12%
+[14:58:15] [Server thread/INFO]: Preparing spawn area: 16%
+[14:58:15] [Server thread/INFO]: Preparing spawn area: 20%
+[14:58:15] [Server thread/INFO]: Preparing spawn area: 24%
+[14:58:15] [Server thread/INFO]: Preparing spawn area: 28%
+[14:58:16] [Server thread/INFO]: Preparing spawn area: 32%
+[14:58:16] [Server thread/INFO]: Preparing spawn area: 36%
+[14:58:16] [Server thread/INFO]: Preparing spawn area: 40%
+[14:58:16] [Server thread/INFO]: Preparing spawn area: 44%
+[14:58:16] [Server thread/INFO]: Preparing spawn area: 48%
+[14:58:16] [Server thread/INFO]: Preparing spawn area: 52%
+[14:58:16] [Server thread/INFO]: Preparing spawn area: 56%
+[14:58:17] [Server thread/INFO]: Preparing spawn area: 60%
+[14:58:17] [Server thread/INFO]: Preparing spawn area: 64%
+[14:58:17] [Server thread/INFO]: Preparing spawn area: 68%
+[14:58:17] [Server thread/INFO]: Preparing spawn area: 72%
+[14:58:17] [Server thread/INFO]: Preparing spawn area: 76%
+[14:58:17] [Server thread/INFO]: Preparing spawn area: 80%
+[14:58:17] [Server thread/INFO]: Preparing spawn area: 84%
+[14:58:18] [Server thread/INFO]: Preparing spawn area: 88%
+[14:58:18] [Server thread/INFO]: Preparing spawn area: 92%
+[14:58:18] [Server thread/INFO]: Preparing spawn area: 96%
+[14:58:18] [Server thread/INFO]: Preparing spawn area: 100%
+[14:58:18] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -3969618050312224901)
+[14:58:18] [Server thread/INFO]: Preparing spawn area: 4%
+[14:58:19] [Server thread/INFO]: Preparing spawn area: 8%
+[14:58:19] [Server thread/INFO]: Preparing spawn area: 12%
+[14:58:19] [Server thread/INFO]: Preparing spawn area: 16%
+[14:58:19] [Server thread/INFO]: Preparing spawn area: 20%
+[14:58:19] [Server thread/INFO]: Preparing spawn area: 24%
+[14:58:20] [Server thread/INFO]: Preparing spawn area: 28%
+[14:58:20] [Server thread/INFO]: Preparing spawn area: 32%
+[14:58:20] [Server thread/INFO]: Preparing spawn area: 36%
+[14:58:20] [Server thread/INFO]: Preparing spawn area: 40%
+[14:58:20] [Server thread/INFO]: Preparing spawn area: 44%
+[14:58:21] [Server thread/INFO]: Preparing spawn area: 48%
+[14:58:21] [Server thread/INFO]: Preparing spawn area: 52%
+[14:58:21] [Server thread/INFO]: Preparing spawn area: 56%
+[14:58:21] [Server thread/INFO]: Preparing spawn area: 60%
+[14:58:21] [Server thread/INFO]: Preparing spawn area: 64%
+[14:58:21] [Server thread/INFO]: Preparing spawn area: 68%
+[14:58:21] [Server thread/INFO]: Preparing spawn area: 72%
+[14:58:21] [Server thread/INFO]: Preparing spawn area: 76%
+[14:58:21] [Server thread/INFO]: Preparing spawn area: 80%
+[14:58:21] [Server thread/INFO]: Preparing spawn area: 84%
+[14:58:22] [Server thread/INFO]: Preparing spawn area: 88%
+[14:58:22] [Server thread/INFO]: Preparing spawn area: 92%
+[14:58:22] [Server thread/INFO]: Preparing spawn area: 96%
+[14:58:22] [Server thread/INFO]: Preparing spawn area: 100%
+[14:58:22] [Server thread/INFO]: Time elapsed: 9634 ms
+[14:58:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0-beta-01;8975469
+[14:58:23] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_13_R2 as the Bukkit adapter
+[14:58:24] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:58:25] [Server thread/INFO]: [Arconix] Enabling Arconix v2.0.0
+[14:58:25] [Server thread/INFO]: Setting up packets for v1_13_R2
+[14:58:25] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.9.0
+[14:58:25] [Server thread/INFO]: [WorldBorder] [CONFIG] Using rectangular/square border, knockback of 3.0 blocks, and timer delay of 5.
+[14:58:25] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[14:58:25] [Server thread/INFO]: [WorldBorder] [CONFIG] World "world" has border radius 2048 at X: 1631.0 Z: -792.0 (wrapping)
+[14:58:25] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: 1630.0 Y: 67.0 Z: -792.0
+[14:58:25] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[14:58:25] [Server thread/INFO]: Using locale en_US
+[14:58:25] [Server thread/INFO]: Using locale en_US
+[14:58:25] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[14:58:25] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[14:58:25] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[14:58:25] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[14:58:25] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.0-beta01;01dfebe
+[14:58:26] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[14:58:26] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[14:58:26] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[14:58:26] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[14:58:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[14:58:26] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[14:58:26] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[14:58:26] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[14:58:26] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[14:58:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[14:58:26] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[14:58:26] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[14:58:26] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[14:58:26] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[14:58:26] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[14:58:26] [Server thread/INFO]: [WorldGuard] Loading region data...
+[14:58:27] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild vTeamCity
+[14:58:27] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v5.13.1
+[14:58:27] [Server thread/INFO]: [Arconix] Plugin hooked: TreeAssist
+[14:58:27] [Server thread/INFO]: [0;32;1m=============================[m
+[14:58:27] [Server thread/INFO]: [0;37;22mTreeAssist 5.13.1 by [0;35;22mSongoda <3[0;37;22m![m
+[14:58:27] [Server thread/INFO]: [0;37;22mAction: [0;32;1mEnabling[0;37;22m...[m
+[14:58:27] [Server thread/INFO]: [TreeAssist] Loading data file
+[14:58:27] [Server thread/INFO]: [0;32;1m=============================[m
+[14:58:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:58:28] [Server thread/INFO]: Done (19.385s)! For help, type "help"
+[14:58:30] [Server thread/INFO]: [WorldBorder] [Fill] World map generation task automatically continuing. (free mem: 2713 MB)
+[14:58:30] [Server thread/INFO]: [WorldBorder] [Fill] Reminder: you can cancel at any time with "wb fill cancel", or pause/unpause with "wb fill pause". (free mem: 2713 MB)
+[14:58:30] [Server thread/INFO]: [WorldBorder] [Fill] 0 more chunks processed (62515 total, ~88.0%) (free mem: 2713 MB)
+[14:58:38] [Server thread/INFO]: [WorldBorder] [Fill] 568 more chunks processed (63083 total, ~88.8%) (free mem: 2713 MB)
+[14:58:43] [Server thread/INFO]: [WorldBorder] [Fill] 23 more chunks processed (63106 total, ~88.9%) (free mem: 2784 MB)
+[14:58:48] [Server thread/INFO]: [WorldBorder] [Fill] 24 more chunks processed (63130 total, ~88.9%) (free mem: 2755 MB)
+[14:58:53] [Server thread/INFO]: [WorldBorder] [Fill] 22 more chunks processed (63152 total, ~88.9%) (free mem: 2690 MB)
+[14:58:59] [Server thread/INFO]: [WorldBorder] [Fill] 26 more chunks processed (63178 total, ~89.0%) (free mem: 2710 MB)
+[14:58:59] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2710 MB)
+[14:58:59] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[14:59:04] [Server thread/INFO]: [WorldBorder] [Fill] 23 more chunks processed (63201 total, ~89.0%) (free mem: 2593 MB)
+[14:59:09] [Server thread/INFO]: [WorldBorder] [Fill] 23 more chunks processed (63224 total, ~89.0%) (free mem: 2603 MB)
+[14:59:14] [Server thread/INFO]: [WorldBorder] [Fill] 24 more chunks processed (63248 total, ~89.1%) (free mem: 2659 MB)
+[14:59:19] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (63273 total, ~89.1%) (free mem: 2625 MB)
+[14:59:24] [Server thread/INFO]: [WorldBorder] [Fill] 532 more chunks processed (63805 total, ~89.8%) (free mem: 2608 MB)
+[14:59:29] [Server thread/INFO]: [WorldBorder] [Fill] 24 more chunks processed (63829 total, ~89.9%) (free mem: 2526 MB)
+[14:59:29] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2526 MB)
+[14:59:34] [Server thread/INFO]: [WorldBorder] [Fill] 23 more chunks processed (63852 total, ~89.9%) (free mem: 2587 MB)
+[14:59:39] [Server thread/INFO]: [WorldBorder] [Fill] 24 more chunks processed (63876 total, ~89.9%) (free mem: 2493 MB)
+[14:59:45] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (63901 total, ~90.0%) (free mem: 2519 MB)
+[14:59:50] [Server thread/INFO]: [WorldBorder] [Fill] 27 more chunks processed (63928 total, ~90.0%) (free mem: 2506 MB)
+[14:59:55] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (63953 total, ~90.0%) (free mem: 2518 MB)
+[15:00:00] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (63978 total, ~90.1%) (free mem: 2537 MB)
+[15:00:00] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2537 MB)
+[15:00:05] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64003 total, ~90.1%) (free mem: 2460 MB)
+[15:00:10] [Server thread/INFO]: [WorldBorder] [Fill] 24 more chunks processed (64027 total, ~90.1%) (free mem: 2409 MB)
+[15:00:16] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64052 total, ~90.2%) (free mem: 2460 MB)
+[15:00:21] [Server thread/INFO]: [WorldBorder] [Fill] 24 more chunks processed (64076 total, ~90.2%) (free mem: 2527 MB)
+[15:00:26] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64101 total, ~90.3%) (free mem: 2367 MB)
+[15:00:31] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64126 total, ~90.3%) (free mem: 2324 MB)
+[15:00:31] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2324 MB)
+[15:00:36] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64151 total, ~90.3%) (free mem: 2421 MB)
+[15:00:41] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64176 total, ~90.4%) (free mem: 2326 MB)
+[15:00:46] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64201 total, ~90.4%) (free mem: 2502 MB)
+[15:00:51] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64226 total, ~90.4%) (free mem: 2436 MB)
+[15:00:56] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64251 total, ~90.5%) (free mem: 2394 MB)
+[15:01:01] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64276 total, ~90.5%) (free mem: 2348 MB)
+[15:01:01] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2347 MB)
+[15:01:06] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64301 total, ~90.5%) (free mem: 2365 MB)
+[15:01:11] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64326 total, ~90.6%) (free mem: 2421 MB)
+[15:01:16] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64351 total, ~90.6%) (free mem: 2460 MB)
+[15:01:21] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64376 total, ~90.6%) (free mem: 2229 MB)
+[15:01:27] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64401 total, ~90.7%) (free mem: 2450 MB)
+[15:01:32] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64426 total, ~90.7%) (free mem: 2433 MB)
+[15:01:32] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2433 MB)
+[15:01:37] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64451 total, ~90.7%) (free mem: 2289 MB)
+[15:01:42] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64476 total, ~90.8%) (free mem: 2321 MB)
+[15:01:47] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64501 total, ~90.8%) (free mem: 2328 MB)
+[15:01:52] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64526 total, ~90.9%) (free mem: 2377 MB)
+[15:01:57] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64551 total, ~90.9%) (free mem: 2337 MB)
+[15:02:02] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64576 total, ~90.9%) (free mem: 2148 MB)
+[15:02:02] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2148 MB)
+[15:02:08] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64601 total, ~91.0%) (free mem: 2147 MB)
+[15:02:13] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64626 total, ~91.0%) (free mem: 2317 MB)
+[15:02:18] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64651 total, ~91.0%) (free mem: 2264 MB)
+[15:02:23] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64676 total, ~91.1%) (free mem: 2176 MB)
+[15:02:28] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64701 total, ~91.1%) (free mem: 2072 MB)
+[15:02:33] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64726 total, ~91.1%) (free mem: 2245 MB)
+[15:02:33] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2245 MB)
+[15:03:14] [Server thread/INFO]: [WorldBorder] [Fill] 8 more chunks processed (64734 total, ~91.1%) (free mem: 2277 MB)
+[15:03:14] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2277 MB)
+[15:03:19] [Server thread/INFO]: [WorldBorder] [Fill] 12 more chunks processed (64746 total, ~91.2%) (free mem: 2043 MB)
+[15:03:52] [Server thread/INFO]: [WorldBorder] [Fill] 13 more chunks processed (64759 total, ~91.2%) (free mem: 2267 MB)
+[15:03:52] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2266 MB)
+[15:03:57] [Server thread/INFO]: [WorldBorder] [Fill] 2 more chunks processed (64761 total, ~91.2%) (free mem: 2200 MB)
+[15:04:02] [Server thread/INFO]: [WorldBorder] [Fill] 19 more chunks processed (64780 total, ~91.2%) (free mem: 1973 MB)
+[15:04:07] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64805 total, ~91.2%) (free mem: 2141 MB)
+[15:04:12] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64830 total, ~91.3%) (free mem: 2101 MB)
+[15:04:17] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64855 total, ~91.3%) (free mem: 2034 MB)
+[15:04:22] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64880 total, ~91.4%) (free mem: 1960 MB)
+[15:04:22] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 1960 MB)
+[15:04:27] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64905 total, ~91.4%) (free mem: 2225 MB)
+[15:04:32] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64930 total, ~91.4%) (free mem: 2181 MB)
+[15:04:37] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64955 total, ~91.5%) (free mem: 2140 MB)
+[15:04:42] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (64980 total, ~91.5%) (free mem: 2100 MB)
+[15:04:47] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65005 total, ~91.5%) (free mem: 2060 MB)
+[15:04:52] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65030 total, ~91.6%) (free mem: 2020 MB)
+[15:04:52] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2020 MB)
+[15:04:57] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65055 total, ~91.6%) (free mem: 1875 MB)
+[15:05:02] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65080 total, ~91.6%) (free mem: 1828 MB)
+[15:05:07] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65105 total, ~91.7%) (free mem: 2222 MB)
+[15:05:12] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65130 total, ~91.7%) (free mem: 2184 MB)
+[15:05:17] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65155 total, ~91.7%) (free mem: 2144 MB)
+[15:05:22] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65180 total, ~91.8%) (free mem: 2096 MB)
+[15:05:22] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2096 MB)
+[15:05:27] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65205 total, ~91.8%) (free mem: 1901 MB)
+[15:05:33] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65230 total, ~91.8%) (free mem: 1810 MB)
+[15:05:38] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65255 total, ~91.9%) (free mem: 2180 MB)
+[15:05:43] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65280 total, ~91.9%) (free mem: 2141 MB)
+[15:05:48] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65305 total, ~91.9%) (free mem: 2094 MB)
+[15:05:53] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65330 total, ~92.0%) (free mem: 2049 MB)
+[15:05:53] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2049 MB)
+[15:05:58] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65355 total, ~92.0%) (free mem: 1901 MB)
+[15:06:03] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65380 total, ~92.1%) (free mem: 1855 MB)
+[15:06:08] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65405 total, ~92.1%) (free mem: 1792 MB)
+[15:06:13] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65430 total, ~92.1%) (free mem: 2146 MB)
+[15:06:18] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65455 total, ~92.2%) (free mem: 2078 MB)
+[15:06:23] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65480 total, ~92.2%) (free mem: 2009 MB)
+[15:06:23] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2009 MB)
+[15:06:28] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65505 total, ~92.2%) (free mem: 1858 MB)
+[15:06:33] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65530 total, ~92.3%) (free mem: 1791 MB)
+[15:06:38] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65555 total, ~92.3%) (free mem: 2172 MB)
+[15:06:44] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65580 total, ~92.3%) (free mem: 2065 MB)
+[15:06:49] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65605 total, ~92.4%) (free mem: 1912 MB)
+[15:06:54] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65630 total, ~92.4%) (free mem: 1851 MB)
+[15:06:54] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 1851 MB)
+[15:06:59] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65655 total, ~92.4%) (free mem: 2199 MB)
+[15:07:04] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65680 total, ~92.5%) (free mem: 2160 MB)
+[15:07:09] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65705 total, ~92.5%) (free mem: 2121 MB)
+[15:07:14] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65730 total, ~92.5%) (free mem: 2074 MB)
+[15:07:19] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65755 total, ~92.6%) (free mem: 2027 MB)
+[15:07:25] [Server thread/INFO]: [WorldBorder] [Fill] 21 more chunks processed (65776 total, ~92.6%) (free mem: 1989 MB)
+[15:07:25] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 1989 MB)
+[15:07:30] [Server thread/INFO]: [WorldBorder] [Fill] 27 more chunks processed (65803 total, ~92.7%) (free mem: 1834 MB)
+[15:07:35] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65828 total, ~92.7%) (free mem: 1782 MB)
+[15:07:40] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65853 total, ~92.7%) (free mem: 2162 MB)
+[15:07:45] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65878 total, ~92.8%) (free mem: 2115 MB)
+[15:07:50] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65903 total, ~92.8%) (free mem: 2031 MB)
+[15:07:55] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65928 total, ~92.8%) (free mem: 1963 MB)
+[15:07:55] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 1963 MB)
+[15:08:00] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65953 total, ~92.9%) (free mem: 1811 MB)
+[15:08:05] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (65978 total, ~92.9%) (free mem: 1768 MB)
+[15:08:10] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66003 total, ~92.9%) (free mem: 2160 MB)
+[15:08:15] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66028 total, ~93.0%) (free mem: 2123 MB)
+[15:08:20] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66053 total, ~93.0%) (free mem: 2085 MB)
+[15:08:25] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66078 total, ~93.0%) (free mem: 2038 MB)
+[15:08:25] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2038 MB)
+[15:08:30] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66103 total, ~93.1%) (free mem: 1895 MB)
+[15:08:35] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66128 total, ~93.1%) (free mem: 1852 MB)
+[15:08:40] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66153 total, ~93.1%) (free mem: 1805 MB)
+[15:08:45] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66178 total, ~93.2%) (free mem: 1767 MB)
+[15:08:50] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66203 total, ~93.2%) (free mem: 2158 MB)
+[15:08:55] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66228 total, ~93.2%) (free mem: 2081 MB)
+[15:08:55] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2081 MB)
+[15:09:01] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66253 total, ~93.3%) (free mem: 1886 MB)
+[15:09:06] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66278 total, ~93.3%) (free mem: 1805 MB)
+[15:09:11] [Server thread/INFO]: [WorldBorder] [Fill] 26 more chunks processed (66304 total, ~93.4%) (free mem: 1760 MB)
+[15:09:16] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66329 total, ~93.4%) (free mem: 2142 MB)
+[15:09:21] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66354 total, ~93.4%) (free mem: 2088 MB)
+[15:09:26] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66379 total, ~93.5%) (free mem: 2043 MB)
+[15:09:26] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2043 MB)
+[15:09:31] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66404 total, ~93.5%) (free mem: 1899 MB)
+[15:09:36] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66429 total, ~93.5%) (free mem: 1855 MB)
+[15:09:41] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66454 total, ~93.6%) (free mem: 1762 MB)
+[15:09:46] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66479 total, ~93.6%) (free mem: 2126 MB)
+[15:09:51] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66504 total, ~93.6%) (free mem: 2065 MB)
+[15:09:56] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66529 total, ~93.7%) (free mem: 2013 MB)
+[15:09:56] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2013 MB)
+[15:10:01] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66554 total, ~93.7%) (free mem: 1855 MB)
+[15:10:06] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66579 total, ~93.7%) (free mem: 1803 MB)
+[15:10:11] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66604 total, ~93.8%) (free mem: 1726 MB)
+[15:10:16] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66629 total, ~93.8%) (free mem: 2053 MB)
+[15:10:21] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66654 total, ~93.8%) (free mem: 1976 MB)
+[15:10:26] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66679 total, ~93.9%) (free mem: 1938 MB)
+[15:10:26] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 1938 MB)
+[15:10:31] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66704 total, ~93.9%) (free mem: 1793 MB)
+[15:10:36] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66729 total, ~94.0%) (free mem: 1749 MB)
+[15:10:41] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66754 total, ~94.0%) (free mem: 2134 MB)
+[15:10:46] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66779 total, ~94.0%) (free mem: 2087 MB)
+[15:10:51] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66804 total, ~94.1%) (free mem: 2048 MB)
+[15:10:57] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66829 total, ~94.1%) (free mem: 2001 MB)
+[15:10:57] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2001 MB)
+[15:11:02] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66854 total, ~94.1%) (free mem: 1850 MB)
+[15:11:07] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66879 total, ~94.2%) (free mem: 1791 MB)
+[15:11:12] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66904 total, ~94.2%) (free mem: 1753 MB)
+[15:11:17] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66929 total, ~94.2%) (free mem: 2108 MB)
+[15:11:22] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66954 total, ~94.3%) (free mem: 2040 MB)
+[15:11:27] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (66979 total, ~94.3%) (free mem: 1980 MB)
+[15:11:27] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 1980 MB)
+[15:11:32] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67004 total, ~94.3%) (free mem: 1837 MB)
+[15:11:37] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67029 total, ~94.4%) (free mem: 1786 MB)
+[15:11:42] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67054 total, ~94.4%) (free mem: 1748 MB)
+[15:11:47] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67079 total, ~94.4%) (free mem: 1710 MB)
+[15:11:52] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67104 total, ~94.5%) (free mem: 2096 MB)
+[15:11:57] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67129 total, ~94.5%) (free mem: 2059 MB)
+[15:11:57] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2059 MB)
+[15:12:02] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67154 total, ~94.6%) (free mem: 1907 MB)
+[15:12:07] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67179 total, ~94.6%) (free mem: 1865 MB)
+[15:12:12] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67204 total, ~94.6%) (free mem: 1827 MB)
+[15:12:17] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67229 total, ~94.7%) (free mem: 1781 MB)
+[15:12:22] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67254 total, ~94.7%) (free mem: 1735 MB)
+[15:12:27] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67279 total, ~94.7%) (free mem: 2087 MB)
+[15:12:27] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2087 MB)
+[15:12:32] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67304 total, ~94.8%) (free mem: 1885 MB)
+[15:12:37] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67329 total, ~94.8%) (free mem: 1812 MB)
+[15:12:42] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67354 total, ~94.8%) (free mem: 1774 MB)
+[15:12:47] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67379 total, ~94.9%) (free mem: 1737 MB)
+[15:12:52] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67404 total, ~94.9%) (free mem: 1677 MB)
+[15:12:57] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67429 total, ~94.9%) (free mem: 2066 MB)
+[15:12:57] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2066 MB)
+[15:13:02] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67454 total, ~95.0%) (free mem: 1923 MB)
+[15:13:07] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67479 total, ~95.0%) (free mem: 1862 MB)
+[15:13:12] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67504 total, ~95.0%) (free mem: 1778 MB)
+[15:13:17] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67529 total, ~95.1%) (free mem: 1710 MB)
+[15:13:22] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67554 total, ~95.1%) (free mem: 2088 MB)
+[15:13:27] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67579 total, ~95.2%) (free mem: 2042 MB)
+[15:13:27] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2042 MB)
+[15:13:33] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67604 total, ~95.2%) (free mem: 1876 MB)
+[15:13:38] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67629 total, ~95.2%) (free mem: 1825 MB)
+[15:13:43] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67654 total, ~95.3%) (free mem: 1740 MB)
+[15:13:48] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67679 total, ~95.3%) (free mem: 2071 MB)
+[15:13:53] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67704 total, ~95.3%) (free mem: 2002 MB)
+[15:13:58] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67729 total, ~95.4%) (free mem: 1955 MB)
+[15:13:58] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 1955 MB)
+[15:14:03] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67754 total, ~95.4%) (free mem: 1818 MB)
+[15:14:08] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67779 total, ~95.4%) (free mem: 1773 MB)
+[15:14:13] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67804 total, ~95.5%) (free mem: 1718 MB)
+[15:14:18] [Server thread/INFO]: [WorldBorder] [Fill] 26 more chunks processed (67830 total, ~95.5%) (free mem: 1671 MB)
+[15:14:23] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67855 total, ~95.5%) (free mem: 2060 MB)
+[15:14:28] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67880 total, ~95.6%) (free mem: 2022 MB)
+[15:14:28] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2022 MB)
+[15:14:33] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67905 total, ~95.6%) (free mem: 1864 MB)
+[15:14:38] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67930 total, ~95.6%) (free mem: 1806 MB)
+[15:14:43] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67955 total, ~95.7%) (free mem: 1768 MB)
+[15:14:48] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (67980 total, ~95.7%) (free mem: 1692 MB)
+[15:14:53] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68005 total, ~95.8%) (free mem: 2044 MB)
+[15:14:58] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68030 total, ~95.8%) (free mem: 1992 MB)
+[15:14:58] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 1992 MB)
+[15:15:04] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68055 total, ~95.8%) (free mem: 1856 MB)
+[15:15:09] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68080 total, ~95.9%) (free mem: 1804 MB)
+[15:15:14] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68105 total, ~95.9%) (free mem: 1763 MB)
+[15:15:19] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68130 total, ~95.9%) (free mem: 1724 MB)
+[15:15:24] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68155 total, ~96.0%) (free mem: 1687 MB)
+[15:15:29] [Server thread/INFO]: [WorldBorder] [Fill] 289 more chunks processed (68444 total, ~96.4%) (free mem: 2051 MB)
+[15:15:29] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2051 MB)
+[15:15:34] [Server thread/INFO]: [WorldBorder] [Fill] 27 more chunks processed (68471 total, ~96.4%) (free mem: 1892 MB)
+[15:15:39] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68496 total, ~96.4%) (free mem: 1848 MB)
+[15:15:44] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68521 total, ~96.5%) (free mem: 1800 MB)
+[15:15:49] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68546 total, ~96.5%) (free mem: 1717 MB)
+[15:15:54] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68571 total, ~96.5%) (free mem: 1642 MB)
+[15:15:59] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68596 total, ~96.6%) (free mem: 2023 MB)
+[15:15:59] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 2023 MB)
+[15:16:04] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68621 total, ~96.6%) (free mem: 1865 MB)
+[15:16:09] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68646 total, ~96.7%) (free mem: 1806 MB)
+[15:16:14] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68671 total, ~96.7%) (free mem: 1761 MB)
+[15:16:19] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68696 total, ~96.7%) (free mem: 1692 MB)
+[15:16:25] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68721 total, ~96.8%) (free mem: 2017 MB)
+[15:16:30] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68746 total, ~96.8%) (free mem: 1933 MB)
+[15:16:30] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 1933 MB)
+[15:16:35] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68771 total, ~96.8%) (free mem: 1789 MB)
+[15:16:40] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68796 total, ~96.9%) (free mem: 1744 MB)
+[15:16:45] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68821 total, ~96.9%) (free mem: 1706 MB)
+[15:16:50] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68846 total, ~96.9%) (free mem: 1652 MB)
+[15:16:55] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68871 total, ~97.0%) (free mem: 1606 MB)
+[15:17:00] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68896 total, ~97.0%) (free mem: 1986 MB)
+[15:17:00] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 1986 MB)
+[15:17:05] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68921 total, ~97.0%) (free mem: 1834 MB)
+[15:17:10] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (68946 total, ~97.1%) (free mem: 1791 MB)
+[15:17:15] [Server thread/INFO]: [WorldBorder] [Fill] 822 more chunks processed (69768 total, ~98.2%) (free mem: 1684 MB)
+[15:17:20] [Server thread/INFO]: [WorldBorder] [Fill] 26 more chunks processed (69794 total, ~98.3%) (free mem: 2016 MB)
+[15:17:25] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (69819 total, ~98.3%) (free mem: 1955 MB)
+[15:17:30] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (69844 total, ~98.3%) (free mem: 1916 MB)
+[15:17:30] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 1916 MB)
+[15:17:35] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (69869 total, ~98.4%) (free mem: 1772 MB)
+[15:17:40] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (69894 total, ~98.4%) (free mem: 1720 MB)
+[15:17:45] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (69919 total, ~98.4%) (free mem: 1657 MB)
+[15:17:50] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (69944 total, ~98.5%) (free mem: 1619 MB)
+[15:17:55] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (69969 total, ~98.5%) (free mem: 2005 MB)
+[15:18:00] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (69994 total, ~98.6%) (free mem: 1959 MB)
+[15:18:00] [Server thread/INFO]: [WorldBorder] [Fill] Saving the world to disk, just to be on the safe side. (free mem: 1959 MB)
+[15:18:05] [Server thread/INFO]: [WorldBorder] [Fill] 25 more chunks processed (70019 total, ~98.6%) (free mem: 1801 MB)
+[15:18:07] [Server thread/INFO]: [WorldBorder] [Fill] 1084 more chunks processed (71103 total, ~100.0%) (free mem: 1770 MB)
+[15:18:08] [Server thread/INFO]: [WorldBorder] [Fill] task successfully completed for world "world"! (free mem: 1739 MB)
+[15:26:27] [User Authenticator #1/INFO]: UUID of player canucka is 17a5625b-04c0-4c16-ad28-9335e067e462
+[15:26:31] [Server thread/INFO]: canucka[/142.244.5.159:53731] logged in with entity id 778 at ([world]1631.0669233755943, 67.5, -792.1662272721502)
+[15:32:10] [Server thread/INFO]: canucka issued server command: /flyspeed
+[15:32:13] [Server thread/INFO]: canucka issued server command: /flyspeed
+[15:32:19] [Server thread/INFO]: canucka issued server command: /flyspeed 100 canucka
+[15:32:33] [Server thread/INFO]: canucka issued server command: /flyspeed creative 100 canucka
+[15:32:38] [Server thread/INFO]: canucka issued server command: /flyspeed horizontal 100 canucka
+[15:33:01] [Server thread/INFO]: canucka issued server command: /worldborder
+[15:33:07] [Server thread/INFO]: canucka issued server command: /worldborder get
+[15:33:17] [Server thread/INFO]: canucka issued server command: /worldborder set 4096 200
+[15:33:17] [Server thread/INFO]: [canucka: Growing the world border to 4096.0 blocks wide over 200 seconds]
+[15:33:20] [Server thread/INFO]: canucka issued server command: /worldborder set 4096 400
+[15:33:20] [Server thread/INFO]: [canucka: Growing the world border to 4096.0 blocks wide over 400 seconds]
+[15:33:30] [Server thread/INFO]: canucka issued server command: /worldborder set 4096 200
+[15:33:30] [Server thread/INFO]: [canucka: Growing the world border to 4096.0 blocks wide over 200 seconds]
+[15:33:34] [Server thread/INFO]: canucka issued server command: /worldborder set 4096 100
+[15:33:34] [Server thread/INFO]: [canucka: Growing the world border to 4096.0 blocks wide over 100 seconds]
+[15:33:38] [Server thread/INFO]: canucka issued server command: /worldborder set 4096 500
+[15:33:38] [Server thread/INFO]: [canucka: Growing the world border to 4096.0 blocks wide over 500 seconds]
+[15:33:42] [Server thread/INFO]: canucka issued server command: /worldborder set 4096 50
+[15:33:42] [Server thread/INFO]: [canucka: Growing the world border to 4096.0 blocks wide over 50 seconds]
+[15:33:59] [Server thread/INFO]: canucka issued server command: /worldborder set 4096 30
+[15:33:59] [Server thread/INFO]: [canucka: Growing the world border to 4096.0 blocks wide over 30 seconds]
+[15:34:39] [Server thread/INFO]: canucka issued server command: /wb
+[15:34:52] [Server thread/INFO]: canucka issued server command: /worldborder add 1 1
+[15:34:52] [Server thread/INFO]: [canucka: Growing the world border to 4097.0 blocks wide over 1 seconds]
+[15:35:00] [Server thread/INFO]: canucka issued server command: /worldborder add 1 1
+[15:35:00] [Server thread/INFO]: [canucka: Growing the world border to 4098.0 blocks wide over 1 seconds]
+[15:36:12] [Server thread/INFO]: canucka issued server command: //chunk
+[15:36:15] [Server thread/INFO]: canucka issued server command: //chunk
+[15:38:45] [Server thread/INFO]: canucka issued server command: /spawn
+[15:39:06] [Async Chat Thread - #0/INFO]: <canucka> sethome[m
+[15:39:07] [Server thread/INFO]: canucka issued server command: /sethome
+[15:39:09] [Server thread/INFO]: canucka issued server command: /sethome 2
+[15:39:11] [Server thread/INFO]: canucka issued server command: /sethome two
+[15:39:15] [Server thread/INFO]: canucka issued server command: /sethome three
+[15:39:17] [Server thread/INFO]: canucka issued server command: /delhome
+[15:39:21] [Server thread/INFO]: canucka issued server command: /delhome home
+[15:39:23] [Server thread/INFO]: canucka issued server command: /delhome one
+[15:39:26] [Server thread/INFO]: canucka issued server command: /delhome two
+[15:39:29] [Server thread/INFO]: canucka issued server command: /delhome three
+[15:47:27] [Server thread/INFO]: Stopping the server
+[15:47:27] [Server thread/INFO]: Stopping server
+[15:47:27] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v5.13.1
+[15:47:27] [Server thread/INFO]: [0;32;1m=============================[m
+[15:47:27] [Server thread/INFO]: [0;37;22mTreeAssist 5.13.1 by [0;35;22mBrianna <3[0;37;22m![m
+[15:47:27] [Server thread/INFO]: [0;37;22mAction: [0;31;1mDisabling[0;37;22m...[m
+[15:47:27] [Server thread/INFO]: [0;32;1m=============================[m
+[15:47:27] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
+[15:47:27] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.0-beta01;01dfebe
+[15:47:27] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[15:47:27] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[15:47:27] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[15:47:27] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[15:47:27] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.9.0
+[15:47:27] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[15:47:27] [Server thread/INFO]: [Arconix] Disabling Arconix v2.0.0
+[15:47:27] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-01;8975469
+[15:47:27] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v4.3.7
+[15:47:27] [Server thread/INFO]: [LuckPerms] Closing storage...
+[15:47:27] [Server thread/INFO]: [LuckPerms] Shutting down internal scheduler...
+[15:47:27] [Server thread/INFO]: [LuckPerms] Goodbye!
+[15:47:27] [Server thread/INFO]: Saving players
+[15:47:27] [Server thread/INFO]: canucka lost connection: Server closed
+[15:47:27] [Server thread/INFO]: canucka left the game
+[15:47:27] [Server thread/INFO]: Saving worlds
+[15:47:27] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[15:47:27] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[15:47:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
