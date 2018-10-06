@@ -1,23 +1,24 @@
 lastAccountName: canucka
 timestamps:
-  login: 1538666791460
-  lastteleport: 1538667525747
-  logout: 1538615079843
-ipAddress: 142.244.5.159
+  login: 1538809262248
+  lastteleport: 1538809971611
+  logout: 1538713949517
+ipAddress: 50.99.26.44
 homes: {}
 lastlocation:
   world: world
-  x: 3655.7651745988906
-  y: 31.0
-  z: -846.6162178331689
-  yaw: -41.67423
-  pitch: 3.4489162
+  x: 468.5568680678945
+  y: 256.0
+  z: -759.721935727126
+  yaw: -130.56688
+  pitch: 88.64999
 afk: false
-money: '22626.0'
+money: '22226.0'
 logoutlocation:
   world: world
-  x: 1631.0669233755943
-  y: 67.5
-  z: -792.1662272721502
-  yaw: -270.23886
-  pitch: 22.949842
+  x: 1663.4090638096936
+  y: 71.0
+  z: -1080.777959872354
+  yaw: -12.966031
+  pitch: -82.49992
+nickname: Seiver

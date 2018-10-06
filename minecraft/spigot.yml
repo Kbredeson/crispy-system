@@ -61,6 +61,7 @@ advancements:
 world-settings:
   default:
     verbose: true
+    mob-spawn-range: 3
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -73,8 +74,8 @@ world-settings:
       vine-modifier: 100
       cocoa-modifier: 100
     entity-activation-range:
-      animals: 12
-      monsters: 20
+      animals: 4
+      monsters: 12
       misc: 2
       tick-inactive-villagers: true
     entity-tracking-range:
@@ -88,7 +89,6 @@ world-settings:
       hopper-check: 1
     hopper-amount: 1
     random-light-updates: false
-    mob-spawn-range: 3
     dragon-death-sound-radius: 0
     seed-village: 10387312
     seed-desert: 14357617
@@ -113,10 +113,10 @@ world-settings:
       entity: 1000
     squid-spawn-range:
       min: 45.0
+    view-distance: 5
     merge-radius:
       exp: 6.0
       item: 4.0
-    view-distance: 6
     wither-spawn-sound-radius: 0
     enable-zombie-pigmen-portal-spawns: true
     item-despawn-rate: 6000
