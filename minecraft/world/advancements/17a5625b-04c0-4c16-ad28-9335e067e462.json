@@ -341,13 +341,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-10-02 16:22:03 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-10-02 16:22:03 -0600"
     },
@@ -707,13 +707,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-10-02 23:48:58 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-10-02 23:48:58 -0600"
     },
@@ -730,6 +730,12 @@
       "has_diamond": "2018-10-02 23:48:58 -0600"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2018-10-06 01:40:25 -0600"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -1019,6 +1025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2018-10-06 01:45:33 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2018-10-02 20:50:19 -0600"
@@ -1235,6 +1247,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2018-10-06 01:40:25 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2018-10-04 17:00:24 -0600"
@@ -1275,8 +1293,8 @@
     "criteria": {
       "minecraft:cold_ocean": "2018-10-02 21:07:26 -0600",
       "minecraft:snowy_mountains": "2018-10-04 09:34:08 -0600",
-      "minecraft:forest": "2018-10-02 15:45:19 -0600",
       "minecraft:mountains": "2018-10-02 21:07:14 -0600",
+      "minecraft:forest": "2018-10-02 15:45:19 -0600",
       "minecraft:taiga": "2018-10-03 16:50:02 -0600",
       "minecraft:desert_hills": "2018-10-03 18:46:05 -0600",
       "minecraft:snowy_tundra": "2018-10-04 09:34:04 -0600",
@@ -1287,8 +1305,8 @@
       "minecraft:deep_lukewarm_ocean": "2018-10-04 17:07:07 -0600",
       "minecraft:beach": "2018-10-02 17:01:44 -0600",
       "minecraft:dark_forest": "2018-10-02 21:10:13 -0600",
-      "minecraft:lukewarm_ocean": "2018-10-03 18:45:55 -0600",
       "minecraft:river": "2018-10-02 15:45:49 -0600",
+      "minecraft:lukewarm_ocean": "2018-10-03 18:45:55 -0600",
       "minecraft:birch_forest_hills": "2018-10-02 22:16:05 -0600",
       "minecraft:wooded_hills": "2018-10-02 22:15:50 -0600",
       "minecraft:stone_shore": "2018-10-02 21:07:23 -0600",

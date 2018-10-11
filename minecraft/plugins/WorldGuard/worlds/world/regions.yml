@@ -15,8 +15,8 @@ regions:
         max: {x: 1638.0, y: 255.0, z: -727.0}
         members: {}
         flags: {invincible: allow, greeting: '"§2You have entered a safe space."',
-            pvp: deny, weather-lock: clear, farewell: '"§cYou have entered the real
-                world."'}
+            pvp: deny, mob-spawning: deny, weather-lock: clear, farewell: '"§cYou
+                have entered the real world."'}
         owners: {}
         type: cuboid
         priority: 0
