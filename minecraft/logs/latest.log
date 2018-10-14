@@ -1,28 +1,27 @@
-[13:24:09] [Server thread/INFO]: CONSOLE issued server command: /list 
-[13:24:09] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m10[0;33;22m players online.[m
-[13:24:12] [Server thread/INFO]: Stopping the server
-[13:24:12] [Server thread/INFO]: Stopping server
-[13:24:12] [Server thread/INFO]: [Factions] Disabling Factions v1.8.2
-[13:24:12] [Server thread/INFO]: [Factions v1.8.2] Disabled
-[13:24:12] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
-[13:24:12] [Server thread/INFO]: [CountryOnJoin] Disabling CountryOnJoin v1.1.1
-[13:24:12] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.0-beta01;01dfebe
-[13:24:12] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[13:24:12] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
-[13:24:12] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
-[13:24:12] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
-[13:24:12] [Server thread/INFO]: [LWC] Disabling LWC v2.1.1-46e9fa0
-[13:24:12] [Server thread/INFO]: [LWC] Flushing protection updates (0)
-[13:24:12] [Server thread/INFO]: [DragonSlayer] Disabling DragonSlayer v0.6.1_Jeppa
-[13:24:12] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.9.0
-[13:24:12] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
-[13:24:12] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-01;8975469
-[13:24:12] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v4.3.7
-[13:24:12] [Server thread/INFO]: [LuckPerms] Closing storage...
-[13:24:12] [Server thread/INFO]: [LuckPerms] Shutting down internal scheduler...
-[13:24:12] [Server thread/INFO]: [LuckPerms] Goodbye!
-[13:24:12] [Server thread/INFO]: Saving players
-[13:24:12] [Server thread/INFO]: Saving worlds
-[13:24:12] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[13:24:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[13:24:12] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[01:57:57] [Server thread/INFO]: That... Was not a command. Type "/help" for help.[m
+[01:57:58] [Server thread/INFO]: Stopping the server
+[01:57:58] [Server thread/INFO]: Stopping server
+[01:57:58] [Server thread/INFO]: [Factions] Disabling Factions v1.8.2
+[01:57:58] [Server thread/INFO]: [Factions v1.8.2] Disabled
+[01:57:58] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
+[01:57:58] [Server thread/INFO]: [CountryOnJoin] Disabling CountryOnJoin v1.1.1
+[01:57:58] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.0-beta01;01dfebe
+[01:57:58] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[01:57:58] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[01:57:58] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[01:57:58] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[01:57:58] [Server thread/INFO]: [LWC] Disabling LWC v2.1.1-46e9fa0
+[01:57:58] [Server thread/INFO]: [LWC] Flushing protection updates (0)
+[01:57:58] [Server thread/INFO]: [DragonSlayer] Disabling DragonSlayer v0.6.1_Jeppa
+[01:57:58] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.9.0
+[01:57:58] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[01:57:58] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-01;8975469
+[01:57:58] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v4.3.7
+[01:57:58] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:57:58] [Server thread/INFO]: [LuckPerms] Shutting down internal scheduler...
+[01:57:58] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:57:58] [Server thread/INFO]: Saving players
+[01:57:58] [Server thread/INFO]: Saving worlds
+[01:57:58] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[01:57:58] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[01:57:58] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
