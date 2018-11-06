@@ -181,7 +181,7 @@
     "warp"
   ],
   "pistonProtectionThroughDenyBuild": true,
-  "econEnabled": false,
+  "econEnabled": true,
   "econUniverseAccount": "",
   "econCostClaimWilderness": 30.0,
   "econCostClaimFromFactionBonus": 30.0,
