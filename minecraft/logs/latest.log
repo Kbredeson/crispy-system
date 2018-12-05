@@ -1,29 +1,34 @@
-[04:52:49] [Craft Scheduler Thread - 1883/INFO]: [Vault] Checking for Updates ... 
-[04:52:50] [Craft Scheduler Thread - 1883/INFO]: [Vault] No new version available
-[10:24:23] [Server thread/INFO]: Stopping the server
-[10:24:23] [Server thread/INFO]: Stopping server
-[10:24:23] [Server thread/INFO]: [LWC] Disabling LWC v2.1.1-46e9fa0
-[10:24:23] [Server thread/INFO]: [LWC] Flushing protection updates (0)
-[10:24:23] [Server thread/INFO]: [DragonSlayer] Disabling DragonSlayer v0.6.1_Jeppa
-[10:24:23] [Server thread/INFO]: [Factions] Disabling Factions v1.8.2
-[10:24:23] [Server thread/INFO]: [Factions v1.8.2] Disabled
-[10:24:23] [Server thread/INFO]: [CountryOnJoin] Disabling CountryOnJoin v1.1.1
-[10:24:23] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.0-beta01;01dfebe
-[10:24:23] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[10:24:23] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
-[10:24:23] [Server thread/INFO]: [Vault] Disabling Vault v1.7.1-b91
-[10:24:23] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.9.0
-[10:24:23] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
-[10:24:23] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
-[10:24:23] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
-[10:24:23] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
-[10:24:23] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-01;8975469
-[10:24:23] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v4.3.7
-[10:24:23] [Server thread/INFO]: [LuckPerms] Closing storage...
-[10:24:23] [Server thread/INFO]: [LuckPerms] Shutting down internal scheduler...
-[10:24:23] [Server thread/INFO]: [LuckPerms] Goodbye!
-[10:24:23] [Server thread/INFO]: Saving players
-[10:24:24] [Server thread/INFO]: Saving worlds
-[10:24:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[10:24:24] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[10:24:24] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[04:28:22] [Craft Scheduler Thread - 2785/INFO]: [Vault] Checking for Updates ... 
+[04:28:23] [Craft Scheduler Thread - 2785/INFO]: [Vault] No new version available
+[10:28:22] [Craft Scheduler Thread - 2810/INFO]: [Vault] Checking for Updates ... 
+[10:28:23] [Craft Scheduler Thread - 2810/INFO]: [Vault] No new version available
+[16:28:23] [Craft Scheduler Thread - 2835/INFO]: [Vault] Checking for Updates ... 
+[16:28:23] [Craft Scheduler Thread - 2835/INFO]: [Vault] No new version available
+[19:45:23] [Server thread/INFO]: CONSOLE issued server command: /list 
+[19:45:23] [Server thread/INFO]: There are 0 out of maximum 10 players online.
+[19:45:25] [Server thread/INFO]: Stopping the server
+[19:45:25] [Server thread/INFO]: Stopping server
+[19:45:25] [Server thread/INFO]: [LWC] Disabling LWC v2.1.1-46e9fa0
+[19:45:25] [Server thread/INFO]: [LWC] Flushing protection updates (0)
+[19:45:25] [Server thread/INFO]: [DragonSlayer] Disabling DragonSlayer v0.6.1_Jeppa
+[19:45:25] [Server thread/INFO]: [Factions] Disabling Factions v1.8.2
+[19:45:25] [Server thread/INFO]: [Factions v1.8.2] Disabled
+[19:45:25] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild vTeamCity
+[19:45:25] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.0-beta01;01dfebe
+[19:45:25] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[19:45:25] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[19:45:25] [Server thread/INFO]: [Vault] Disabling Vault v1.7.1-b91
+[19:45:25] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[19:45:25] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[19:45:25] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.9.0
+[19:45:25] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[19:45:25] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-01;8975469
+[19:45:25] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v4.3.7
+[19:45:25] [Server thread/INFO]: [LuckPerms] Closing storage...
+[19:45:25] [Server thread/INFO]: [LuckPerms] Shutting down internal scheduler...
+[19:45:25] [Server thread/INFO]: [LuckPerms] Goodbye!
+[19:45:25] [Server thread/INFO]: Saving players
+[19:45:25] [Server thread/INFO]: Saving worlds
+[19:45:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:45:25] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[19:45:25] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end

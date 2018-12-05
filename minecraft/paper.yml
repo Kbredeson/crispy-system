@@ -24,13 +24,6 @@ settings:
   use-alternative-luck-formula: false
   load-permissions-yml-before-plugins: true
   bungee-online-mode: true
-  save-player-data: true
-  sleep-between-chunk-saves: false
-  region-file-cache-size: 256
-  save-empty-scoreboard-teams: false
-  incoming-packet-spam-threshold: 300
-  remove-invalid-statistics: false
-  use-versioned-world: false
   queue-light-updates-max-loss: 10
   suggest-player-names-when-null-tab-completions: true
   watchdog:
@@ -39,6 +32,13 @@ settings:
   spam-limiter:
     tab-spam-increment: 1
     tab-spam-limit: 500
+  save-player-data: true
+  sleep-between-chunk-saves: false
+  region-file-cache-size: 256
+  save-empty-scoreboard-teams: false
+  incoming-packet-spam-threshold: 300
+  remove-invalid-statistics: false
+  use-versioned-world: false
 timings:
   enabled: true
   verbose: true
@@ -50,10 +50,10 @@ timings:
   history-length: 3600
 messages:
   kick:
-    authentication-servers-down: ''
-    connection-throttle: Connection throttled! Please wait before reconnecting.
     flying-player: Flying is not enabled on this server
     flying-vehicle: Flying is not enabled on this server
+    authentication-servers-down: ''
+    connection-throttle: Connection throttled! Please wait before reconnecting.
 world-settings:
   default:
     keep-spawn-loaded-range: 5
@@ -109,22 +109,23 @@ world-settings:
     prevent-tnt-from-moving-in-water: false
     non-player-arrow-despawn-rate: -1
     creative-arrow-despawn-rate: -1
+    squid-spawn-height:
+      maximum: 0.0
     armor-stands-tick: true
     spawner-nerfed-mobs-should-jump: false
     allow-leashing-undead-horse: false
     baby-zombie-movement-speed: 0.5
     all-chunks-are-slime-chunks: false
     mob-spawner-tick-rate: 1
-    squid-spawn-height:
-      maximum: 0.0
     disable-teleportation-suffocation-check: false
-    filter-nbt-data-from-spawn-eggs-and-related: true
-    max-entity-collisions: 8
-    disable-creeper-lingering-effect: false
-    hopper:
-      cooldown-when-full: true
-      disable-move-event: false
-    portal-search-radius: 128
+    remove-corrupt-tile-entities: false
+    use-chunk-inhabited-timer: true
+    queue-light-updates: false
+    despawn-ranges:
+      soft: 32
+      hard: 128
+    falling-block-height-nerf: 0
+    tnt-entity-height-nerf: 0
     frosted-ice:
       enabled: true
       delay:
@@ -137,23 +138,11 @@ world-settings:
       max-refills: -1
       refresh-min: 12h
       refresh-max: 2d
-    remove-corrupt-tile-entities: false
-    use-chunk-inhabited-timer: true
-    queue-light-updates: false
-    duplicate-uuid-resolver: saferegen
-    duplicate-uuid-saferegen-delete-range: 32
+    filter-nbt-data-from-spawn-eggs-and-related: true
+    max-entity-collisions: 8
+    disable-creeper-lingering-effect: false
+    portal-search-radius: 128
     optimize-explosions: false
-    max-growth-height:
-      cactus: 3
-      reeds: 3
-    despawn-ranges:
-      soft: 32
-      hard: 128
-    falling-block-height-nerf: 0
-    tnt-entity-height-nerf: 0
-    fishing-time-range:
-      MinimumTicks: 100
-      MaximumTicks: 600
     use-vanilla-world-scoreboard-name-coloring: false
     delay-chunk-unloads-by: 10s
     max-auto-save-chunks-per-tick: 24
@@ -162,3 +151,14 @@ world-settings:
     treasure-maps-return-already-discovered: false
     max-chunk-sends-per-tick: 81
     max-chunk-gens-per-tick: 10
+    max-growth-height:
+      cactus: 3
+      reeds: 3
+    fishing-time-range:
+      MinimumTicks: 100
+      MaximumTicks: 600
+    hopper:
+      cooldown-when-full: true
+      disable-move-event: false
+    duplicate-uuid-resolver: saferegen
+    duplicate-uuid-saferegen-delete-range: 32
